@@ -1,0 +1,746 @@
+,Have you Completed your Graduation ?,Highest Educational Qualification,Total no of years Experience [before joining Piramal],Average Incentive [per month] earned in your pervious company ?,Which Products you are selling in your pervious role ?,What was the average ticket size handled at your end in previous role ?,How many members are there in your family ?,How many are earning family members ? [Other then yourself]2,How many members are dependent on you ?,Department,Performance,same_first_digit
+0,Full Time,Under Graduate,5.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,1 - 2 members,1.0,1,Mass Affluent Housing,0,1
+1,Full Time,Under Graduate,1.5,7K-10K,Personal Loan,INR 50K - INR 2L,3 - 4 members,2.0,4,Sales,1,1
+2,Full Time,Under Graduate,4.5,Less than 3K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,1,1
+3,Full Time,Post Graduate,4.5,Above 10K,CASA Account,INR 15L and above,3 - 4 members,2.0,3,Affordable Housing,1,1
+4,Full Time,Post Graduate,1.0,Nil,Others,Fresher,3 - 4 members,1.0,3,Affordable Housing,0,1
+5,Full Time,Post Graduate,10.0,3K-7K,Housing Loan,INR 50K - INR 2L,1 - 2 members,1.0,3,Affordable Housing,0,0
+6,Full Time,Under Graduate,2.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,3.0,3,Affordable Housing,1,1
+7,Full Time,Under Graduate,6.5,Above 10K,Car Loan,INR 10L and above,3 - 4 members,1.0,2,Sales,0,1
+8,Full Time,Post Graduate,2.0,Above 10K,Personal Loan,INR 15L and above,3 - 4 members,2.0,2,Sales,0,1
+9,Full Time,Under Graduate,3.0,7K-10K,Housing Loan,INR 15L and above,5 & Above members,0.0,4,Sales,0,1
+10,Full Time,Under Graduate,3.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,2.0,5,Secured Business Loan,1,1
+11,Full Time,Under Graduate,2.0,7K-10K,Housing Loan,INR 50K - INR 2L,3 - 4 members,0.0,3,Affordable Housing,1,1
+12,Full Time,Post Graduate,7.0,7K-10K,Housing Loan,INR 15L and above,1 - 2 members,1.0,1,Sales,0,1
+13,Full Time,Under Graduate,9.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Business Loans,0,1
+14,Part Time,Under Graduate,15.0,Nil,Others,INR 50K - INR 2L,3 - 4 members,1.0,3,Affordable Housing,1,1
+15,Full Time,Under Graduate,2.5,3K-7K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,2.0,0,Secured Business Loan,1,1
+16,Full Time,Under Graduate,6.0,Above 10K,Others,Fresher,3 - 4 members,1.0,2,Secured Business Loan,0,1
+17,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,0.0,3,Business Loans,0,1
+18,Full Time,Post Graduate,5.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & Above members,3.0,3,Affordable Housing,0,1
+19,Full Time,Post Graduate,5.0,3K-7K,Housing Loan,INR 50K and below,3 - 4 members,1.0,4,Mass Affluent Housing,1,0
+20,Full Time,Post Graduate,8.0,3K-7K,MSME / SME Loan,INR 50K - INR 2L,3 - 4 members,1.0,3,Affordable Housing,1,1
+21,Full Time,Under Graduate,7.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,0.0,3,Affordable Housing,0,1
+22,Full Time,Under Graduate,3.0,3K-7K,Car Loan,INR 5L - INR 15L,5 & Above members,2.0,4,Sales,1,1
+23,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & Above members,1.0,2,Budget Housing,1,1
+24,Full Time,Under Graduate,3.0,3K-7K,Housing Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Mass Affluent Housing,0,1
+25,Full Time,Post Graduate,5.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,3.0,1,Mass Affluent Housing,0,1
+26,Full Time,Under Graduate,5.083333333,3K-7K,Business Loan,INR 50K and below,1 - 2 members,1.0,2,Business Loans,0,1
+27,Full Time,Under Graduate,7.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,0.0,5,Business Loans,0,1
+28,Part Time,Under Graduate,8.0,7K-10K,MSME / SME Loan,INR 5L - INR 15L,1 - 2 members,1.0,2,Business Loans,1,1
+29,Full Time,Under Graduate,4.0,3K-7K,Housing Loan,INR 15L and above,1 - 2 members,1.0,1,Affordable Housing,0,1
+30,Full Time,Post Graduate,6.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+31,Full Time,Under Graduate,5.0,3K-7K,Housing Loan,INR 50K - INR 2L,1 - 2 members,0.0,2,Budget Housing,0,1
+32,Full Time,Post Graduate,10.0,Nil,Housing Loan,Fresher,3 - 4 members,0.0,5,Affordable Housing,0,1
+33,Full Time,Under Graduate,4.0,7K-10K,MSME / SME Loan,INR 50K - INR 2L,3 - 4 members,0.0,4,Mass Affluent Housing,1,1
+34,Full Time,Under Graduate,1.0,Above 10K,Personal Loan,INR 50K - INR 2L,3 - 4 members,2.0,2,Sales,1,1
+35,Full Time,Post Graduate,4.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,2.0,6,Mass Affluent Housing,0,1
+36,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,0,Mass Affluent Housing,0,1
+37,Full Time,Post Graduate,3.0,7K-10K,Housing Loan,INR 15L and above,5 & Above members,1.0,3,Secured Business Loan,0,1
+38,Full Time,Under Graduate,8.0,7K-10K,Housing Loan,INR 15L and above,1 - 2 members,2.0,2,Mass Affluent Housing,0,1
+39,Full Time,Under Graduate,3.0,7K-10K,MSME / SME Loan,INR 50K - INR 2L,3 - 4 members,1.0,3,Business Loans,1,1
+40,Full Time,Post Graduate,4.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,2.0,3,Secured Business Loan,1,1
+41,Full Time,Post Graduate,1.0,Above 10K,Others,INR 50K - INR 2L,3 - 4 members,2.0,3,Sales,0,1
+42,Full Time,Under Graduate,1.5,3K-7K,Personal Loan,INR 15L and above,3 - 4 members,2.0,3,Sales,1,1
+43,Full Time,Under Graduate,4.0,7K-10K,Personal Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Affordable Housing,0,1
+44,Full Time,Post Graduate,11.0,Above 10K,Housing Loan,INR 2L - INR 5L,5 & Above members,1.0,6,Affordable Housing,0,1
+45,Full Time,Under Graduate,2.0,Above 10K,CASA Account,INR 50K - INR 2L,5 & Above members,1.0,0,Affordable Housing,0,1
+46,Full Time,Under Graduate,0.0,Above 10K,Car Loan,INR 10L and above,3 - 4 members,1.0,2,Sales,1,1
+47,Full Time,Under Graduate,0.0,Less than 3K,Car Loan,INR 2L - INR 5L,3 - 4 members,1.0,2,Sales,0,1
+48,Full Time,Under Graduate,10.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,3,Affordable Housing,1,1
+49,Full Time,Under Graduate,3.5,Above 10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,1.0,2,Business Loans,0,1
+50,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 10L and above,5 & Above members,1.0,2,Mass Affluent Housing,0,1
+51,Full Time,Under Graduate,2.5,Above 10K,Housing Loan,INR 15L and above,5 & Above members,0.0,5,Affordable Housing,1,1
+52,Full Time,Under Graduate,3.0,7K-10K,Others,INR 2L - INR 5L,3 - 4 members,1.0,2,Affordable Housing,0,1
+53,Full Time,Under Graduate,4.833333333,Above 10K,Personal Loan,INR 10L and above,3 - 4 members,1.0,2,Sales,1,1
+54,Full Time,Under Graduate,0.0,Nil,Housing Loan,Fresher,3 - 4 members,2.0,1,Budget Housing,0,1
+55,Full Time,Under Graduate,2.0,7K-10K,Personal Loan,INR 15L and above,3 - 4 members,2.0,2,Mass Affluent Housing,1,1
+56,Full Time,Under Graduate,1.833333333,3K-7K,Housing Loan,INR 10L and above,3 - 4 members,1.0,3,Affordable Housing,0,0
+57,Full Time,Under Graduate,0.0,Nil,Housing Loan,Fresher,5 & Above members,1.0,4,Affordable Housing,1,1
+58,Full Time,Under Graduate,3.0,7K-10K,Others,INR 5L - INR 15L,5 & Above members,1.0,6,Affordable Housing,0,1
+59,Full Time,Under Graduate,0.0,3K-7K,Car Loan,INR 10L and above,5 & Above members,1.0,3,Sales,1,1
+60,Full Time,Under Graduate,10.0,Above 10K,Car Loan,INR 15L and above,5 & Above members,2.0,3,Affordable Housing,0,1
+61,Full Time,Under Graduate,3.666666667,Above 10K,Loan Against Property,INR 2L - INR 5L,3 - 4 members,1.0,1,Secured Business Loan,1,1
+62,Full Time,Post Graduate,5.0,7K-10K,Others,INR 50K - INR 2L,5 & Above members,1.0,2,Mass Affluent Housing,0,1
+63,Full Time,Post Graduate,4.5,7K-10K,Loan Against Property,INR 10L and above,5 & Above members,1.0,2,Secured Business Loan,0,1
+64,Full Time,Under Graduate,0.0,Nil,Housing Loan,INR 50K - INR 2L,3 - 4 members,1.0,1,Affordable Housing,1,1
+65,Full Time,Under Graduate,2.5,Nil,CASA Account,INR 50K and below,3 - 4 members,1.0,3,Affordable Housing,0,1
+66,Full Time,Post Graduate,5.0,3K-7K,MSME / SME Loan,INR 5L - INR 15L,3 - 4 members,0.0,2,Business Loans,0,1
+67,Full Time,Post Graduate,5.0,Above 10K,Housing Loan,INR 50K - INR 2L,1 - 2 members,4.0,10,Affordable Housing,1,1
+68,Full Time,Under Graduate,4.0,3K-7K,Housing Loan,INR 50K and below,5 & Above members,3.0,0,Affordable Housing,0,1
+69,Full Time,Post Graduate,1.0,3K-7K,Others,INR 50K and below,3 - 4 members,1.0,3,Sales,0,1
+70,Part Time,Under Graduate,8.0,3K-7K,CASA Account,INR 50K and below,5 & above members,2.0,3,Mass Affluent Housing,0,1
+71,Part Time,Under Graduate,6.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,1.0,3,Affordable Housing,1,1
+72,Part Time,Under Graduate,11.0,Nil,Car Loan,INR 5L - INR 15L,5 & Above members,0.0,4,Sales,1,1
+73,Full Time,Under Graduate,6.0,Above 10K,MSME / SME Loan,INR 50K and below,5 & Above members,1.0,7,Business Loans,0,0
+74,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 10L and above,1 - 2 members,1.0,2,Mass Affluent Housing,0,1
+75,Full Time,Under Graduate,7.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,0.0,3,Affordable Housing,1,1
+76,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 10L and above,5 & Above members,1.0,1,Mass Affluent Housing,1,1
+77,Full Time,Under Graduate,3.0,3K-7K,Others,INR 50K - INR 2L,1 - 2 members,2.0,1,Affordable Housing,0,1
+78,Full Time,Under Graduate,0.0,7K-10K,Car Loan,INR 5L - INR 15L,5 & Above members,1.0,1,Sales,0,1
+79,Full Time,Under Graduate,2.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & Above members,3.0,0,Affordable Housing,0,1
+80,Full Time,Under Graduate,3.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+81,Full Time,Post Graduate,4.0,3K-7K,Others,Fresher,3 - 4 members,1.0,2,Affordable Housing,0,0
+82,Full Time,Post Graduate,8.5,Above 10K,Others,Fresher,5 & Above members,0.0,4,Affordable Housing,0,1
+83,Full Time,Under Graduate,5.166666667,Above 10K,Business Loan,INR 10L and above,1 - 2 members,1.0,2,Business Loans,1,0
+84,Full Time,Under Graduate,7.0,Above 10K,Housing Loan,INR 50K and below,5 & Above members,2.0,2,Sales,1,1
+85,Full Time,Under Graduate,5.0,3K-7K,Personal Loan,INR 15L and above,3 - 4 members,2.0,2,Sales,0,1
+86,Full Time,Under Graduate,8.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,0.0,5,Affordable Housing,0,1
+87,Part Time,Under Graduate,9.0,Above 10K,Others,INR 15L and above,5 & Above members,2.0,3,Secured Business Loan,1,1
+88,Full Time,Under Graduate,5.0,Above 10K,Personal Loan,INR 5L - INR 15L,3 - 4 members,0.0,2,Business Loans,0,1
+89,Full Time,Under Graduate,0.0,Above 10K,Personal Loan,INR 10L and above,5 & Above members,1.0,2,Mass Affluent Housing,1,1
+90,Full Time,Under Graduate,9.0,Above 10K,Car Loan,INR 5L - INR 15L,5 & Above members,2.0,3,Sales,0,1
+91,Full Time,Post Graduate,6.0,Above 10K,Car Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Affordable Housing,1,0
+92,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,1 - 2 members,1.0,4,Mass Affluent Housing,0,1
+93,Full Time,Post Graduate,1.0,3K-7K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,1.0,1,Secured Business Loan,0,1
+94,Full Time,Under Graduate,3.0,3K-7K,Others,INR 15L and above,5 & Above members,1.0,5,Affordable Housing,0,1
+95,Full Time,Under Graduate,6.0,3K-7K,Others,Fresher,5 & Above members,1.0,5,Affordable Housing,0,1
+96,Full Time,Under Graduate,7.0,3K-7K,MSME / SME Loan,INR 50K - INR 2L,5 & Above members,2.0,0,Sales,0,1
+97,Part Time,Under Graduate,6.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,1 - 2 members,2.0,1,Affordable Housing,0,1
+98,Full Time,Post Graduate,2.0,Above 10K,Others,INR 50K - INR 2L,3 - 4 members,3.0,2,Affordable Housing,0,1
+99,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 5L - INR 15L,5 & Above members,1.0,1,Affordable Housing,1,1
+100,Full Time,Under Graduate,0.0,Less than 3K,Housing Loan,INR 10L and above,3 - 4 members,1.0,4,Mass Affluent Housing,0,1
+101,Full Time,Post Graduate,7.0,3K-7K,Car Loan,INR 15L and above,5 & Above members,2.0,4,Mass Affluent Housing,0,1
+102,Full Time,Under Graduate,6.0,3K-7K,Car Loan,INR 5L - INR 15L,5 & Above members,2.0,4,Sales,1,1
+103,Full Time,Under Graduate,0.0,Nil,CASA Account,Fresher,5 & Above members,1.0,3,Affordable Housing,0,1
+104,Full Time,Under Graduate,3.0,Above 10K,Personal Loan,INR 2L - INR 5L,3 - 4 members,2.0,1,Mass Affluent Housing,1,1
+105,Full Time,Under Graduate,3.166666667,3K-7K,Housing Loan,INR 10L and above,3 - 4 members,1.0,3,Mass Affluent Housing,0,1
+106,Full Time,Post Graduate,7.0,7K-10K,Others,Fresher,5 & Above members,1.0,4,Mass Affluent Housing,0,1
+107,Full Time,Post Graduate,10.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,0,Mass Affluent Housing,1,1
+108,Full Time,Under Graduate,5.0,7K-10K,Personal Loan,INR 2L - INR 5L,3 - 4 members,1.0,2,Sales,0,1
+109,Full Time,Under Graduate,0.0,Above 10K,Loan Against Property,INR 10L and above,5 & Above members,1.0,4,Secured Business Loan,1,1
+110,Full Time,Post Graduate,4.0,3K-7K,Housing Loan,INR 15L and above,1 - 2 members,1.0,0,Mass Affluent Housing,0,1
+111,Full Time,Post Graduate,4.7,Above 10K,Personal Loan,INR 5L - INR 15L,5 & Above members,1.0,2,Affordable Housing,0,1
+112,Full Time,Under Graduate,5.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,1.0,1,Mass Affluent Housing,0,1
+113,Full Time,Under Graduate,0.0,3K-7K,Personal Loan,INR 10L and above,3 - 4 members,1.0,2,Sales,1,1
+114,Full Time,Post Graduate,5.5,3K-7K,Others,INR 15L and above,5 & Above members,1.0,3,Secured Business Loan,1,1
+115,Full Time,Under Graduate,5.0,3K-7K,Housing Loan,INR 5L - INR 15L,1 - 2 members,1.0,2,Affordable Housing,1,1
+116,Full Time,Under Graduate,5.0,Above 10K,MSME / SME Loan,INR 2L - INR 5L,3 - 4 members,1.0,4,Mass Affluent Housing,0,1
+117,Full Time,Post Graduate,4.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,2.0,4,Affordable Housing,1,1
+118,Full Time,Post Graduate,3.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,3.0,1,Affordable Housing,1,1
+119,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+120,Full Time,Under Graduate,1.0,3K-7K,MSME / SME Loan,INR 2L - INR 5L,3 - 4 members,0.0,4,Secured Business Loan,0,1
+121,Full Time,Post Graduate,5.0,3K-7K,Car Loan,INR 50K - INR 2L,3 - 4 members,1.0,3,Sales,0,1
+122,Full Time,Post Graduate,1.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+123,Full Time,Post Graduate,3.0,3K-7K,Others,INR 2L - INR 5L,3 - 4 members,4.0,0,Affordable Housing,0,1
+124,Full Time,Under Graduate,5.0,3K-7K,Others,INR 50K - INR 2L,3 - 4 members,2.0,3,Mass Affluent Housing,0,0
+125,Full Time,Under Graduate,0.0,Above 10K,Business Loan,INR 10L and above,5 & Above members,1.0,3,Business Loans,1,1
+126,Full Time,Under Graduate,0.0,3K-7K,Car Loan,INR 50K and below,5 & Above members,1.0,4,Sales,0,1
+127,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,2,Affordable Housing,0,1
+128,Full Time,Under Graduate,5.916666667,Less than 3K,Housing Loan,INR 10L and above,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+129,Full Time,Under Graduate,16.0,7K-10K,Car Loan,INR 2L - INR 5L,1 - 2 members,0.0,2,Sales,1,1
+130,Full Time,Under Graduate,8.0,Less than 3K,Housing Loan,INR 50K - INR 2L,3 - 4 members,2.0,2,Affordable Housing,1,1
+131,Full Time,Under Graduate,0.0,Less than 3K,Housing Loan,INR 10L and above,5 & Above members,1.0,0,Affordable Housing,0,1
+132,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 50K - INR 2L,1 - 2 members,1.0,2,Mass Affluent Housing,0,1
+133,Full Time,Under Graduate,10.0,Above 10K,Housing Loan,INR 5L - INR 15L,5 & above members,1.0,5,Affordable Housing,0,1
+134,Part Time,Under Graduate,2.0,Less than 3K,Others,INR 50K and below,5 & Above members,3.0,3,Budget Housing,0,1
+135,Full Time,Post Graduate,5.0,3K-7K,Personal Loan,INR 2L - INR 5L,5 & above members,3.0,2,Affordable Housing,0,1
+136,Full Time,Under Graduate,2.0,Above 10K,MSME / SME Loan,INR 15L and above,5 & Above members,0.0,5,Affordable Housing,0,0
+137,Full Time,Under Graduate,7.4725,Less than 3K,Housing Loan,INR 2L - INR 5L,5 & Above members,1.0,4,Affordable Housing,0,1
+138,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,2,Affordable Housing,0,1
+139,Full Time,Under Graduate,7.0,3K-7K,Car Loan,INR 5L - INR 15L,5 & Above members,0.0,6,Sales,1,1
+140,Full Time,Post Graduate,7.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+141,Full Time,Under Graduate,5.0,7K-10K,Personal Loan,INR 2L - INR 5L,5 & above members,1.0,1,Sales,1,1
+142,Full Time,Under Graduate,4.0,Above 10K,Personal Loan,INR 2L - INR 5L,3 - 4 members,2.0,0,Sales,0,1
+143,Full Time,Post Graduate,13.08333333,Nil,Loan Against Property,Fresher,3 - 4 members,1.0,2,Secured Business Loan,0,1
+144,Full Time,Post Graduate,3.8,3K-7K,Housing Loan,INR 2L - INR 5L,1 - 2 members,0.0,2,Sales,1,1
+145,Full Time,Under Graduate,3.5,3K-7K,CASA Account,Fresher,3 - 4 members,2.0,3,Sales,0,1
+146,Full Time,Under Graduate,5.0,7K-10K,Others,INR 50K - INR 2L,3 - 4 members,1.0,2,Affordable Housing,0,1
+147,Full Time,Under Graduate,5.0,Above 10K,Housing Loan,INR 15L and above,1 - 2 members,1.0,2,Budget Housing,1,1
+148,Full Time,Others,3.0,Nil,Housing Loan,INR 5L - INR 15L,5 & Above members,3.0,2,Affordable Housing,0,1
+149,Full Time,Under Graduate,0.0,Nil,Housing Loan,Fresher,5 & Above members,0.0,4,Affordable Housing,1,1
+150,Full Time,Under Graduate,2.3,3K-7K,Housing Loan,INR 5L - INR 15L,1 - 2 members,1.0,1,Affordable Housing,0,1
+151,Full Time,Under Graduate,4.0,Above 10K,Others,INR 15L and above,5 & Above members,0.0,4,Affordable Housing,0,1
+152,Full Time,Under Graduate,3.0,Above 10K,CASA Account,INR 50K - INR 2L,3 - 4 members,2.0,2,Affordable Housing,0,1
+153,Full Time,Others,1.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,2.0,2,Mass Affluent Housing,1,1
+154,Full Time,Under Graduate,2.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,5.0,5,Secured Business Loan,1,1
+155,Full Time,Post Graduate,4.0,7K-10K,Housing Loan,INR 15L and above,5 & Above members,3.0,4,Affordable Housing,0,1
+156,Full Time,Under Graduate,3.5,Above 10K,Loan Against Property,INR 2L - INR 5L,3 - 4 members,1.0,2,Secured Business Loan,0,1
+157,Full Time,Post Graduate,1.5,Above 10K,Housing Loan,INR 50K - INR 2L,5 & Above members,2.0,4,Mass Affluent Housing,1,1
+158,Full Time,Post Graduate,6.0,7K-10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,3.0,2,Affordable Housing,0,1
+159,Full Time,Under Graduate,5.0,7K-10K,Housing Loan,INR 15L and above,3 - 4 members,0.0,3,Affordable Housing,0,1
+160,Full Time,Post Graduate,2.8,Nil,MSME / SME Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Sales,0,1
+161,Full Time,Under Graduate,0.0,7K-10K,Others,INR 10L and above,5 & Above members,1.0,2,Mass Affluent Housing,0,1
+162,Full Time,Under Graduate,4.0,7K-10K,Housing Loan,INR 15L and above,3 - 4 members,0.0,4,Mass Affluent Housing,1,1
+163,Full Time,Under Graduate,3.0,3K-7K,Housing Loan,INR 15L and above,5 & above members,3.0,2,Mass Affluent Housing,0,1
+164,Full Time,Post Graduate,1.0,Nil,Housing Loan,INR 50K - INR 2L,3 - 4 members,1.0,1,Affordable Housing,0,1
+165,Full Time,Under Graduate,2.0,3K-7K,Housing Loan,INR 50K and below,5 & Above members,0.0,4,Affordable Housing,0,1
+166,Full Time,Under Graduate,4.833333333,Above 10K,Personal Loan,INR 10L and above,3 - 4 members,1.0,3,Sales,0,1
+167,Full Time,Under Graduate,0.0,Less than 3K,Housing Loan,Fresher,3 - 4 members,1.0,4,Affordable Housing,0,1
+168,Full Time,Under Graduate,5.0,3K-7K,Others,INR 50K and below,5 & Above members,0.0,5,Affordable Housing,0,1
+169,Full Time,Under Graduate,0.0,3K-7K,Loan Against Property,INR 10L and above,3 - 4 members,1.0,1,Secured Business Loan,0,1
+170,Full Time,Under Graduate,1.0,3K-7K,Housing Loan,INR 50K - INR 2L,3 - 4 members,1.0,2,Affordable Housing,0,1
+171,Part Time,Under Graduate,1.5,Above 10K,Housing Loan,INR 50K and below,1 - 2 members,1.0,1,Affordable Housing,0,1
+172,Full Time,Under Graduate,0.0,Nil,Housing Loan,Fresher,3 - 4 members,4.0,3,Affordable Housing,0,1
+173,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 50K and below,5 & Above members,1.0,2,Affordable Housing,1,1
+174,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,0.0,2,Affordable Housing,0,1
+175,Full Time,Under Graduate,8.0,7K-10K,Car Loan,INR 5L - INR 15L,3 - 4 members,3.0,2,Affordable Housing,0,1
+176,Full Time,Under Graduate,5.0,3K-7K,Housing Loan,INR 15L and above,5 & Above members,2.0,0,Mass Affluent Housing,1,1
+177,Full Time,Post Graduate,1.5,Above 10K,Housing Loan,INR 5L - INR 15L,1 - 2 members,1.0,1,Affordable Housing,1,1
+178,Part Time,Under Graduate,10.0,Nil,Housing Loan,INR 15L and above,5 & Above members,1.0,5,Affordable Housing,0,1
+179,Full Time,Post Graduate,0.0,Nil,Others,Fresher,3 - 4 members,1.0,2,Affordable Housing,0,1
+180,Full Time,Under Graduate,6.0,3K-7K,Others,INR 2L - INR 5L,3 - 4 members,1.0,3,Affordable Housing,0,1
+181,Full Time,Others,20.0,Above 10K,Others,INR 15L and above,3 - 4 members,0.0,3,Affordable Housing,0,1
+182,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,5,Affordable Housing,1,1
+183,Full Time,Under Graduate,0.0,Above 10K,Business Loan,INR 5L - INR 15L,1 - 2 members,1.0,2,Business Loans,1,1
+184,Full Time,Under Graduate,6.0,3K-7K,Others,INR 5L - INR 15L,5 & Above members,3.0,2,Mass Affluent Housing,0,1
+185,Full Time,Under Graduate,5.0,7K-10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,3.0,2,Budget Housing,1,1
+186,Full Time,Others,2.0,Above 10K,Others,INR 50K and below,3 - 4 members,1.0,3,Affordable Housing,0,1
+187,Full Time,Post Graduate,5.0,3K-7K,Others,INR 2L - INR 5L,5 & Above members,2.0,4,Affordable Housing,1,1
+188,Full Time,Under Graduate,3.0,Nil,Others,INR 50K and below,1 - 2 members,1.0,2,Affordable Housing,0,1
+189,Full Time,Under Graduate,7.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,3.0,2,Business Loans,1,1
+190,Full Time,Post Graduate,1.0,3K-7K,Housing Loan,INR 2L - INR 5L,3 - 4 members,2.0,3,Affordable Housing,0,1
+191,Full Time,Post Graduate,4.0,Above 10K,Others,INR 15L and above,3 - 4 members,3.0,1,Affordable Housing,1,1
+192,Full Time,Under Graduate,0.0,3K-7K,Loan Against Property,INR 10L and above,5 & Above members,1.0,5,Secured Business Loan,0,1
+193,Full Time,Under Graduate,4.0,3K-7K,Housing Loan,INR 50K - INR 2L,5 & Above members,3.0,3,Affordable Housing,0,1
+194,Full Time,Under Graduate,1.25,3K-7K,Housing Loan,INR 10L and above,5 & Above members,1.0,2,Mass Affluent Housing,0,1
+195,Full Time,Under Graduate,1.0,3K-7K,MSME / SME Loan,INR 50K and below,3 - 4 members,1.0,2,Affordable Housing,0,1
+196,Full Time,Under Graduate,3.3725,Nil,Car Loan,INR 50K and below,5 & Above members,1.0,1,Sales,0,1
+197,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,Fresher,3 - 4 members,1.0,3,Secured Business Loan,0,1
+198,Full Time,Under Graduate,2.0,3K-7K,MSME / SME Loan,INR 5L - INR 15L,1 - 2 members,1.0,2,Mass Affluent Housing,1,1
+199,Full Time,Post Graduate,4.0,Above 10K,Others,INR 2L - INR 5L,5 & above members,2.0,6,Affordable Housing,0,1
+200,Full Time,Under Graduate,9.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,0.0,2,Secured Business Loan,1,1
+201,Full Time,Under Graduate,7.0,7K-10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,3,Mass Affluent Housing,0,0
+202,Part Time,Under Graduate,1.7,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,0.0,3,Affordable Housing,1,1
+203,Full Time,Post Graduate,10.0,7K-10K,Housing Loan,INR 50K and below,5 & Above members,1.0,4,Mass Affluent Housing,1,1
+204,Full Time,Under Graduate,7.0,Above 10K,Car Loan,INR 2L - INR 5L,5 & Above members,2.0,1,Sales,1,1
+205,Full Time,Under Graduate,10.0,Above 10K,Personal Loan,INR 5L - INR 15L,5 & Above members,1.0,4,Affordable Housing,1,1
+206,Full Time,Post Graduate,6.0,Above 10K,Others,INR 50K - INR 2L,5 & Above members,3.0,3,Affordable Housing,0,1
+207,Full Time,Under Graduate,3.0,7K-10K,CASA Account,INR 50K and below,3 - 4 members,2.0,1,Mass Affluent Housing,1,1
+208,Full Time,Under Graduate,12.0,Above 10K,Others,INR 50K and below,3 - 4 members,1.0,0,Mass Affluent Housing,0,1
+209,Full Time,Under Graduate,1.0,3K-7K,Personal Loan,Fresher,5 & Above members,1.0,3,Affordable Housing,0,1
+210,Full Time,Post Graduate,4.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Business Loans,1,1
+211,Full Time,Under Graduate,2.0,Above 10K,Housing Loan,INR 5L - INR 15L,5 & Above members,2.0,3,Budget Housing,0,1
+212,Full Time,Under Graduate,1.0,Less than 3K,Housing Loan,INR 2L - INR 5L,3 - 4 members,1.0,1,Mass Affluent Housing,0,1
+213,Full Time,Under Graduate,3.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,1,1
+214,Full Time,Under Graduate,10.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,0.0,2,Affordable Housing,0,1
+215,Full Time,Under Graduate,0.0,3K-7K,Car Loan,INR 5L - INR 15L,5 & Above members,1.0,5,Sales,1,1
+216,Full Time,Under Graduate,5.0,3K-7K,Others,INR 50K and below,5 & Above members,5.0,2,Mass Affluent Housing,0,1
+217,Full Time,Post Graduate,4.0,Above 10K,Others,INR 50K - INR 2L,3 - 4 members,1.0,2,Affordable Housing,0,1
+218,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,Fresher,5 & Above members,1.0,5,Mass Affluent Housing,1,1
+219,Full Time,Post Graduate,7.0,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,2.0,2,Budget Housing,0,1
+220,Full Time,Under Graduate,0.0,Above 10K,Car Loan,INR 2L - INR 5L,3 - 4 members,1.0,1,Sales,1,1
+221,Full Time,Under Graduate,0.0,Above 10K,Personal Loan,INR 10L and above,5 & Above members,1.0,4,Sales,0,1
+222,Full Time,Under Graduate,2.6,Above 10K,Personal Loan,INR 50K and below,5 & Above members,2.0,4,Mass Affluent Housing,1,1
+223,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 2L - INR 5L,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+224,Full Time,Under Graduate,7.0,3K-7K,Others,INR 50K - INR 2L,3 - 4 members,1.0,1,Affordable Housing,0,1
+225,Part Time,Under Graduate,3.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,3,Affordable Housing,1,1
+226,Part Time,Post Graduate,6.5,Above 10K,Housing Loan,INR 50K and below,3 - 4 members,2.0,1,Affordable Housing,0,1
+227,Full Time,Under Graduate,1.5,7K-10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Affordable Housing,1,1
+228,Part Time,Under Graduate,4.0,Above 10K,Others,INR 50K and below,5 & Above members,2.0,1,Sales,0,1
+229,Full Time,Under Graduate,3.5,7K-10K,Car Loan,INR 2L - INR 5L,3 - 4 members,1.0,2,Sales,1,1
+230,Full Time,Under Graduate,5.0,3K-7K,Personal Loan,INR 2L - INR 5L,3 - 4 members,3.0,1,Affordable Housing,0,1
+231,Full Time,Post Graduate,9.0,Above 10K,Car Loan,INR 5L - INR 15L,3 - 4 members,2.0,3,Sales,1,1
+232,Full Time,Under Graduate,1.0,3K-7K,Housing Loan,INR 50K - INR 2L,3 - 4 members,2.0,3,Mass Affluent Housing,0,1
+233,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,3,Affordable Housing,1,1
+234,Full Time,Under Graduate,6.0,Above 10K,CASA Account,INR 2L - INR 5L,5 & Above members,1.0,5,Mass Affluent Housing,1,1
+235,Full Time,Under Graduate,2.0,7K-10K,Housing Loan,INR 50K - INR 2L,3 - 4 members,5.0,4,Budget Housing,1,1
+236,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 10L and above,5 & Above members,1.0,5,Mass Affluent Housing,0,1
+237,Full Time,Under Graduate,0.0,Nil,Others,Fresher,3 - 4 members,0.0,4,Affordable Housing,0,1
+238,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Mass Affluent Housing,0,1
+239,Full Time,Post Graduate,5.0,3K-7K,Personal Loan,INR 15L and above,3 - 4 members,2.0,3,Affordable Housing,0,1
+240,Full Time,Under Graduate,4.0,3K-7K,Car Loan,INR 5L - INR 15L,3 - 4 members,0.0,2,Sales,1,1
+241,Full Time,Under Graduate,4.0,3K-7K,Others,INR 2L - INR 5L,3 - 4 members,1.0,3,Budget Housing,1,1
+242,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,3,Affordable Housing,1,1
+243,Full Time,Post Graduate,5.0,7K-10K,Housing Loan,INR 5L - INR 15L,1 - 2 members,0.0,2,Affordable Housing,0,1
+244,Full Time,Under Graduate,5.0,7K-10K,CASA Account,Fresher,1 - 2 members,0.0,1,Affordable Housing,0,1
+245,Full Time,Under Graduate,0.0,Above 10K,Business Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Business Loans,1,1
+246,Full Time,Under Graduate,0.0,Nil,Others,Fresher,3 - 4 members,1.0,2,Affordable Housing,1,1
+247,Full Time,Under Graduate,0.0,3K-7K,Personal Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Sales,0,1
+248,Full Time,Under Graduate,3.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,3,Affordable Housing,0,1
+249,Full Time,Under Graduate,1.5,7K-10K,Car Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Sales,0,0
+250,Full Time,Under Graduate,3.916666667,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,3,Mass Affluent Housing,1,1
+251,Full Time,Under Graduate,6.0,Above 10K,MSME / SME Loan,INR 15L and above,5 & Above members,2.0,7,Business Loans,0,0
+252,Full Time,Post Graduate,6.0,Above 10K,Personal Loan,INR 50K - INR 2L,5 & Above members,3.0,2,Mass Affluent Housing,1,1
+253,Full Time,Post Graduate,1.5,7K-10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,2.0,3,Sales,0,1
+254,Full Time,Under Graduate,4.0,7K-10K,Personal Loan,INR 15L and above,1 - 2 members,0.0,1,Sales,0,1
+255,Full Time,Post Graduate,2.0,3K-7K,Others,INR 50K - INR 2L,3 - 4 members,0.0,3,Mass Affluent Housing,1,1
+256,Part Time,Others,5.9,Above 10K,Personal Loan,INR 15L and above,5 & Above members,1.0,7,Sales,1,0
+257,Full Time,Under Graduate,1.5,Less than 3K,Housing Loan,INR 15L and above,3 - 4 members,0.0,3,Affordable Housing,0,1
+258,Full Time,Under Graduate,3.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,0,1
+259,Full Time,Under Graduate,8.0,7K-10K,Housing Loan,INR 5L - INR 15L,5 & Above members,0.0,4,Budget Housing,1,1
+260,Full Time,Post Graduate,4.0,Above 10K,Others,INR 15L and above,1 - 2 members,2.0,1,Affordable Housing,0,1
+261,Full Time,Post Graduate,2.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,4.0,4,Mass Affluent Housing,0,1
+262,Full Time,Under Graduate,7.0,3K-7K,Housing Loan,INR 50K and below,3 - 4 members,1.0,3,Affordable Housing,0,1
+263,Full Time,Under Graduate,10.0,Above 10K,Personal Loan,INR 15L and above,3 - 4 members,1.0,1,Sales,1,1
+264,Full Time,Under Graduate,9.0,3K-7K,Business Loan,INR 10L and above,1 - 2 members,1.0,2,Business Loans,1,1
+265,Full Time,Post Graduate,2.0,Nil,Housing Loan,INR 50K and below,5 & Above members,3.0,0,Mass Affluent Housing,1,1
+266,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+267,Full Time,Under Graduate,6.0,7K-10K,Car Loan,INR 2L - INR 5L,3 - 4 members,1.0,5,Mass Affluent Housing,0,1
+268,Full Time,Post Graduate,8.0,Less than 3K,CASA Account,INR 50K and below,3 - 4 members,2.0,3,Affordable Housing,0,1
+269,Full Time,Under Graduate,4.0,Nil,Others,Fresher,5 & Above members,2.0,3,Mass Affluent Housing,0,1
+270,Full Time,Under Graduate,2.0,7K-10K,Personal Loan,INR 50K - INR 2L,3 - 4 members,1.0,4,Mass Affluent Housing,1,1
+271,Full Time,Under Graduate,7.0,3K-7K,MSME / SME Loan,INR 50K and below,3 - 4 members,1.0,2,Business Loans,1,1
+272,Full Time,Under Graduate,4.0,3K-7K,Housing Loan,INR 5L - INR 15L,3 - 4 members,0.0,3,Affordable Housing,1,1
+273,Full Time,Under Graduate,6.0,Above 10K,Car Loan,INR 15L and above,3 - 4 members,1.0,1,Sales,1,1
+274,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,2,Mass Affluent Housing,1,1
+275,Full Time,Post Graduate,0.0,Nil,Personal Loan,INR 50K and below,1 - 2 members,1.0,2,Affordable Housing,0,1
+276,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 10L and above,5 & Above members,1.0,2,Budget Housing,1,1
+277,Full Time,Under Graduate,5.0,3K-7K,Housing Loan,INR 15L and above,5 & above members,4.0,2,Affordable Housing,0,1
+278,Full Time,Post Graduate,4.0,Above 10K,Personal Loan,INR 50K - INR 2L,1 - 2 members,2.0,1,Affordable Housing,0,1
+279,Full Time,Post Graduate,10.0,Above 10K,Others,INR 2L - INR 5L,5 & Above members,0.0,4,Sales,1,1
+280,Full Time,Under Graduate,0.0,Above 10K,Personal Loan,INR 10L and above,1 - 2 members,1.0,2,Sales,1,1
+281,Full Time,Under Graduate,3.0,3K-7K,MSME / SME Loan,INR 15L and above,5 & Above members,2.0,3,Affordable Housing,0,1
+282,Full Time,Under Graduate,0.0,Nil,Housing Loan,Fresher,5 & Above members,2.0,3,Affordable Housing,0,1
+283,Full Time,Under Graduate,7.0,Above 10K,Personal Loan,INR 5L - INR 15L,1 - 2 members,1.0,2,Sales,1,1
+284,Full Time,Under Graduate,8.0,7K-10K,MSME / SME Loan,INR 15L and above,5 & above members,2.0,2,Business Loans,1,1
+285,Full Time,Under Graduate,6.0,3K-7K,Others,INR 2L - INR 5L,3 - 4 members,1.0,2,Affordable Housing,0,1
+286,Full Time,Under Graduate,3.583333333,Above 10K,Loan Against Property,INR 10L and above,5 & Above members,1.0,3,Secured Business Loan,1,1
+287,Full Time,Under Graduate,0.0,Less than 3K,Housing Loan,INR 10L and above,1 - 2 members,1.0,1,Affordable Housing,0,1
+288,Part Time,Post Graduate,6.0,3K-7K,Car Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Sales,1,1
+289,Full Time,Under Graduate,2.0,3K-7K,Housing Loan,INR 2L - INR 5L,3 - 4 members,0.0,3,Budget Housing,0,1
+290,Full Time,Under Graduate,7.0,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,2.0,2,Business Loans,0,1
+291,Full Time,Under Graduate,12.0,Above 10K,Others,INR 15L and above,1 - 2 members,1.0,2,Secured Business Loan,0,0
+292,Full Time,Under Graduate,7.0,Above 10K,Car Loan,INR 15L and above,3 - 4 members,1.0,3,Sales,0,1
+293,Full Time,Under Graduate,10.0,3K-7K,Housing Loan,INR 5L - INR 15L,3 - 4 members,0.0,4,Affordable Housing,0,1
+294,Full Time,Others,2.0,3K-7K,CASA Account,Fresher,3 - 4 members,5.0,4,Affordable Housing,1,1
+295,Full Time,Under Graduate,2.419166667,7K-10K,Others,INR 10L and above,5 & Above members,1.0,2,Mass Affluent Housing,0,1
+296,Full Time,Post Graduate,6.0,Nil,Housing Loan,INR 50K - INR 2L,5 & above members,2.0,1,Sales,1,1
+297,Full Time,Under Graduate,0.0,3K-7K,Business Loan,INR 10L and above,3 - 4 members,1.0,0,Business Loans,1,1
+298,Full Time,Under Graduate,1.0,Above 10K,Others,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,1,1
+299,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,0.0,3,Mass Affluent Housing,1,1
+300,Full Time,Under Graduate,0.0,Nil,Others,Fresher,3 - 4 members,2.0,3,Affordable Housing,1,1
+301,Full Time,Under Graduate,6.6,Above 10K,Personal Loan,INR 50K and below,3 - 4 members,1.0,3,Affordable Housing,0,1
+302,Full Time,Under Graduate,2.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,1.0,4,Business Loans,1,1
+303,Full Time,Under Graduate,2.0,3K-7K,Others,Fresher,3 - 4 members,2.0,2,Affordable Housing,0,1
+304,Full Time,Under Graduate,0.0,Nil,Housing Loan,INR 5L - INR 15L,5 & Above members,1.0,2,Mass Affluent Housing,0,1
+305,Full Time,Under Graduate,2.0,3K-7K,Personal Loan,INR 50K - INR 2L,3 - 4 members,0.0,4,Mass Affluent Housing,0,1
+306,Full Time,Post Graduate,5.0,3K-7K,Others,INR 15L and above,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+307,Full Time,Post Graduate,7.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,0.0,6,Business Loans,0,1
+308,Full Time,Under Graduate,3.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,1.0,1,Mass Affluent Housing,1,1
+309,Full Time,Under Graduate,6.0,Nil,Others,Fresher,5 & Above members,2.0,2,Affordable Housing,0,1
+310,Full Time,Under Graduate,2.0,3K-7K,Housing Loan,INR 10L and above,5 & Above members,1.0,4,Affordable Housing,0,1
+311,Full Time,Under Graduate,2.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,1.0,3,Affordable Housing,0,1
+312,Full Time,Under Graduate,1.5,3K-7K,MSME / SME Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Sales,1,1
+313,Full Time,Post Graduate,3.0,3K-7K,Car Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,1,1
+314,Full Time,Under Graduate,7.0,Above 10K,Others,INR 15L and above,5 & Above members,1.0,2,Sales,1,1
+315,Full Time,Under Graduate,4.0,Above 10K,Personal Loan,INR 15L and above,3 - 4 members,1.0,3,Business Loans,1,1
+316,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,0,Budget Housing,0,1
+317,Full Time,Under Graduate,3.0,Nil,Others,INR 50K and below,1 - 2 members,1.0,1,Affordable Housing,0,0
+318,Full Time,Under Graduate,5.0,7K-10K,CASA Account,INR 2L - INR 5L,3 - 4 members,1.0,3,Affordable Housing,1,1
+319,Full Time,Post Graduate,4.0,Above 10K,MSME / SME Loan,INR 15L and above,1 - 2 members,1.0,2,Sales,0,1
+320,Full Time,Post Graduate,1.0,Nil,Housing Loan,INR 5L - INR 15L,3 - 4 members,2.0,3,Affordable Housing,1,1
+321,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 10L and above,5 & Above members,1.0,0,Affordable Housing,0,1
+322,Full Time,Post Graduate,0.0,Nil,Others,Fresher,3 - 4 members,1.0,3,Sales,0,1
+323,Full Time,Post Graduate,10.0,7K-10K,Car Loan,INR 15L and above,5 & Above members,1.0,3,Sales,0,1
+324,Full Time,Others,2.0,7K-10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,1,1
+325,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 2L - INR 5L,1 - 2 members,1.0,2,Affordable Housing,0,1
+326,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 50K and below,5 & Above members,1.0,3,Affordable Housing,0,1
+327,Full Time,Under Graduate,13.0,7K-10K,Housing Loan,INR 15L and above,1 - 2 members,1.0,2,Affordable Housing,0,1
+328,Full Time,Under Graduate,2.0,7K-10K,CASA Account,INR 5L - INR 15L,3 - 4 members,1.0,1,Affordable Housing,0,1
+329,Full Time,Under Graduate,3.0,3K-7K,MSME / SME Loan,INR 15L and above,3 - 4 members,1.0,2,Secured Business Loan,1,1
+330,Full Time,Post Graduate,0.4,3K-7K,Housing Loan,INR 5L - INR 15L,5 & above members,1.0,3,Affordable Housing,0,1
+331,Full Time,Post Graduate,8.0,Above 10K,Others,INR 50K - INR 2L,5 & Above members,0.0,4,Secured Business Loan,1,1
+332,Full Time,Under Graduate,6.0,Above 10K,Car Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Sales,0,1
+333,Full Time,Under Graduate,0.0,Above 10K,Loan Against Property,INR 10L and above,3 - 4 members,1.0,2,Secured Business Loan,1,1
+334,Full Time,Under Graduate,1.0,Less than 3K,Personal Loan,INR 50K - INR 2L,5 & Above members,3.0,0,Mass Affluent Housing,1,1
+335,Full Time,Post Graduate,7.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,1.0,1,Mass Affluent Housing,0,1
+336,Full Time,Post Graduate,10.0,Above 10K,Housing Loan,INR 2L - INR 5L,5 & Above members,2.0,3,Affordable Housing,0,1
+337,Full Time,Under Graduate,4.0,Above 10K,Housing Loan,INR 15L and above,5 & above members,2.0,1,Mass Affluent Housing,0,0
+338,Full Time,Under Graduate,0.0,Above 10K,Personal Loan,INR 10L and above,3 - 4 members,1.0,1,Sales,0,1
+339,Full Time,Under Graduate,2.0,7K-10K,MSME / SME Loan,INR 2L - INR 5L,1 - 2 members,1.0,2,Affordable Housing,1,1
+340,Full Time,Under Graduate,4.0,3K-7K,Personal Loan,INR 50K - INR 2L,3 - 4 members,1.0,2,Affordable Housing,0,1
+341,Full Time,Under Graduate,14.0,3K-7K,Others,INR 50K - INR 2L,5 & Above members,0.0,5,Affordable Housing,0,1
+342,Full Time,Post Graduate,3.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & Above members,4.0,4,Mass Affluent Housing,0,1
+343,Full Time,Post Graduate,3.0,Above 10K,Housing Loan,Fresher,3 - 4 members,1.0,1,Affordable Housing,0,1
+344,Full Time,Under Graduate,16.0,3K-7K,Others,Fresher,3 - 4 members,0.0,3,Affordable Housing,1,1
+345,Full Time,Under Graduate,9.0,Above 10K,Housing Loan,INR 5L - INR 15L,5 & Above members,0.0,5,Sales,0,1
+346,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 2L - INR 5L,5 & Above members,1.0,5,Affordable Housing,0,1
+347,Full Time,Under Graduate,2.0,3K-7K,Housing Loan,INR 15L and above,1 - 2 members,1.0,0,Affordable Housing,0,1
+348,Full Time,Under Graduate,2.0,Nil,Others,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,0,1
+349,Full Time,Under Graduate,7.666666667,Less than 3K,Car Loan,INR 50K and below,1 - 2 members,1.0,1,Affordable Housing,1,1
+350,Full Time,Under Graduate,6.333333333,Above 10K,Business Loan,INR 10L and above,5 & Above members,1.0,6,Business Loans,1,1
+351,Full Time,Post Graduate,6.0,Above 10K,Housing Loan,INR 50K - INR 2L,3 - 4 members,2.0,2,Mass Affluent Housing,1,1
+352,Full Time,Under Graduate,4.0,7K-10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Affordable Housing,0,1
+353,Full Time,Post Graduate,3.833333333,7K-10K,Housing Loan,INR 10L and above,5 & Above members,1.0,3,Affordable Housing,1,1
+354,Full Time,Under Graduate,5.0,Above 10K,Housing Loan,INR 15L and above,1 - 2 members,0.0,1,Affordable Housing,1,1
+355,Part Time,Post Graduate,10.0,3K-7K,Housing Loan,INR 50K and below,3 - 4 members,1.0,4,Affordable Housing,0,1
+356,Full Time,Under Graduate,6.583333333,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,3,Affordable Housing,1,1
+357,Full Time,Post Graduate,3.416666667,3K-7K,Housing Loan,INR 10L and above,3 - 4 members,1.0,3,Mass Affluent Housing,0,1
+358,Full Time,Under Graduate,3.5,3K-7K,MSME / SME Loan,INR 50K - INR 2L,5 & Above members,1.0,3,Business Loans,1,1
+359,Full Time,Post Graduate,6.0,Less than 3K,Housing Loan,INR 15L and above,3 - 4 members,3.0,2,Affordable Housing,0,1
+360,Full Time,Under Graduate,6.0,7K-10K,Housing Loan,INR 50K and below,5 & Above members,3.0,6,Mass Affluent Housing,0,1
+361,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+362,Full Time,Under Graduate,1.0,Above 10K,Personal Loan,Fresher,5 & Above members,1.0,2,Mass Affluent Housing,1,1
+363,Full Time,Under Graduate,4.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,2.0,2,Affordable Housing,1,1
+364,Full Time,Post Graduate,8.0,Above 10K,Personal Loan,INR 15L and above,5 & Above members,1.0,4,Sales,0,1
+365,Full Time,Under Graduate,5.0,7K-10K,Housing Loan,INR 2L - INR 5L,5 & Above members,1.0,4,Affordable Housing,0,1
+366,Full Time,Under Graduate,3.4,3K-7K,Personal Loan,INR 50K - INR 2L,3 - 4 members,2.0,0,Sales,0,0
+367,Full Time,Under Graduate,1.0,Above 10K,Car Loan,INR 2L - INR 5L,3 - 4 members,2.0,4,Sales,0,1
+368,Full Time,Under Graduate,3.5,3K-7K,Housing Loan,INR 10L and above,1 - 2 members,1.0,2,Mass Affluent Housing,0,1
+369,Full Time,Under Graduate,3.0,3K-7K,Housing Loan,INR 15L and above,1 - 2 members,0.0,2,Affordable Housing,0,1
+370,Full Time,Under Graduate,0.0,Nil,Personal Loan,Fresher,5 & Above members,1.0,5,Sales,1,0
+371,Full Time,Others,5.0,7K-10K,Car Loan,INR 5L - INR 15L,1 - 2 members,1.0,1,Sales,1,1
+372,Full Time,Under Graduate,5.633333333,Nil,Housing Loan,INR 10L and above,5 & Above members,1.0,2,Mass Affluent Housing,0,0
+373,Full Time,Post Graduate,2.0,3K-7K,Others,INR 50K and below,3 - 4 members,1.0,3,Mass Affluent Housing,0,0
+374,Full Time,Under Graduate,3.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,1.0,2,Affordable Housing,0,1
+375,Full Time,Under Graduate,5.0,Above 10K,Car Loan,INR 5L - INR 15L,5 & Above members,2.0,3,Sales,1,1
+376,Full Time,Under Graduate,12.0,7K-10K,CASA Account,INR 15L and above,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+377,Full Time,Post Graduate,2.0,Nil,Housing Loan,Fresher,5 & Above members,0.0,3,Affordable Housing,0,1
+378,Full Time,Under Graduate,1.0,3K-7K,Others,INR 2L - INR 5L,3 - 4 members,1.0,2,Affordable Housing,0,1
+379,Full Time,Under Graduate,6.0,3K-7K,Housing Loan,INR 15L and above,1 - 2 members,0.0,2,Mass Affluent Housing,0,1
+380,Full Time,Under Graduate,4.0,Above 10K,Housing Loan,INR 5L - INR 15L,5 & Above members,1.0,3,Affordable Housing,0,1
+381,Full Time,Post Graduate,8.0,Above 10K,Housing Loan,INR 50K - INR 2L,3 - 4 members,1.0,3,Budget Housing,1,1
+382,Full Time,Under Graduate,2.0,Above 10K,Personal Loan,INR 5L - INR 15L,5 & Above members,1.0,0,Sales,0,1
+383,Full Time,Post Graduate,5.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,1.0,3,Affordable Housing,1,1
+384,Full Time,Under Graduate,2.0,Above 10K,Others,INR 2L - INR 5L,5 & Above members,1.0,1,Secured Business Loan,0,1
+385,Full Time,Post Graduate,0.0,Nil,Others,Fresher,3 - 4 members,2.0,2,Sales,0,1
+386,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,3,Mass Affluent Housing,0,1
+387,Full Time,Under Graduate,7.0,3K-7K,Housing Loan,INR 50K - INR 2L,5 & Above members,2.0,5,Affordable Housing,0,1
+388,Full Time,Under Graduate,15.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,0.0,4,Mass Affluent Housing,1,1
+389,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 10L and above,1 - 2 members,1.0,1,Mass Affluent Housing,0,1
+390,Full Time,Under Graduate,4.0,Less than 3K,Housing Loan,INR 10L and above,5 & Above members,1.0,6,Affordable Housing,0,1
+391,Full Time,Under Graduate,0.0,Above 10K,Car Loan,INR 50K and below,5 & Above members,1.0,4,Sales,1,1
+392,Full Time,Under Graduate,4.0,Above 10K,Personal Loan,INR 50K and below,5 & Above members,1.0,4,Mass Affluent Housing,0,1
+393,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 2L - INR 5L,3 - 4 members,1.0,1,Affordable Housing,0,0
+394,Full Time,Under Graduate,2.0,Less than 3K,MSME / SME Loan,INR 2L - INR 5L,5 & Above members,0.0,5,Affordable Housing,0,1
+395,Full Time,Under Graduate,0.0,Nil,Housing Loan,INR 10L and above,1 - 2 members,1.0,0,Budget Housing,0,1
+396,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 5L - INR 15L,1 - 2 members,0.0,2,Mass Affluent Housing,0,1
+397,Full Time,Under Graduate,4.0,Above 10K,CASA Account,INR 50K - INR 2L,3 - 4 members,1.0,1,Affordable Housing,0,1
+398,Full Time,Under Graduate,0.0,Above 10K,Loan Against Property,INR 10L and above,5 & Above members,1.0,4,Secured Business Loan,0,1
+399,Full Time,Under Graduate,3.0,3K-7K,Others,INR 50K and below,5 & Above members,3.0,4,Affordable Housing,0,1
+400,Full Time,Under Graduate,5.0,Above 10K,Car Loan,INR 2L - INR 5L,3 - 4 members,0.0,5,Sales,1,1
+401,Full Time,Under Graduate,10.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,3.0,6,Budget Housing,0,1
+402,Full Time,Under Graduate,5.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,2.0,4,Mass Affluent Housing,1,1
+403,Full Time,Post Graduate,7.0,3K-7K,Car Loan,INR 15L and above,3 - 4 members,1.0,3,Sales,0,1
+404,Full Time,Under Graduate,7.0,Above 10K,CASA Account,INR 2L - INR 5L,3 - 4 members,2.0,1,Secured Business Loan,1,1
+405,Full Time,Under Graduate,0.0,Less than 3K,Housing Loan,Fresher,3 - 4 members,1.0,1,Affordable Housing,0,1
+406,Full Time,Under Graduate,10.0,Nil,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,0,1
+407,Full Time,Under Graduate,4.0,7K-10K,Car Loan,Fresher,3 - 4 members,2.0,2,Affordable Housing,0,1
+408,Full Time,Under Graduate,18.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,0.0,2,Mass Affluent Housing,1,1
+409,Full Time,Post Graduate,0.0,Nil,Others,Fresher,3 - 4 members,2.0,3,Sales,0,1
+410,Full Time,Under Graduate,0.0,3K-7K,Loan Against Property,INR 10L and above,3 - 4 members,1.0,2,Secured Business Loan,0,1
+411,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 2L - INR 5L,5 & Above members,1.0,4,Mass Affluent Housing,0,1
+412,Full Time,Post Graduate,8.0,3K-7K,Car Loan,INR 50K and below,3 - 4 members,1.0,2,Affordable Housing,0,1
+413,Full Time,Under Graduate,3.0,Above 10K,Car Loan,INR 2L - INR 5L,3 - 4 members,2.0,2,Sales,1,1
+414,Full Time,Post Graduate,1.5,Above 10K,Car Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Sales,0,1
+415,Full Time,Under Graduate,3.0,3K-7K,Personal Loan,INR 5L - INR 15L,3 - 4 members,2.0,1,Sales,0,1
+416,Full Time,Under Graduate,4.916666667,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,0,Mass Affluent Housing,1,1
+417,Full Time,Under Graduate,1.0,7K-10K,Housing Loan,INR 50K - INR 2L,3 - 4 members,2.0,0,Affordable Housing,0,1
+418,Full Time,Under Graduate,7.0,Above 10K,Car Loan,INR 10L and above,3 - 4 members,1.0,2,Sales,1,1
+419,Full Time,Under Graduate,1.0,3K-7K,Others,Fresher,5 & Above members,3.0,2,Secured Business Loan,0,1
+420,Full Time,Post Graduate,7.0,7K-10K,Others,INR 2L - INR 5L,3 - 4 members,2.0,4,Mass Affluent Housing,0,1
+421,Full Time,Post Graduate,4.0,7K-10K,CASA Account,INR 2L - INR 5L,3 - 4 members,2.0,0,Sales,1,1
+422,Full Time,Post Graduate,4.0,3K-7K,Personal Loan,INR 50K - INR 2L,1 - 2 members,1.0,1,Sales,0,1
+423,Full Time,Post Graduate,2.0,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,1.0,2,Secured Business Loan,1,1
+424,Full Time,Under Graduate,0.0,Less than 3K,Business Loan,INR 2L - INR 5L,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+425,Full Time,Under Graduate,4.25,Above 10K,Loan Against Property,INR 10L and above,1 - 2 members,1.0,0,Secured Business Loan,0,1
+426,Full Time,Under Graduate,8.0,Less than 3K,Housing Loan,INR 50K - INR 2L,5 & above members,3.0,2,Secured Business Loan,0,1
+427,Full Time,Under Graduate,2.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,3 - 4 members,0.0,3,Business Loans,1,1
+428,Full Time,Under Graduate,5.0,Less than 3K,Housing Loan,INR 10L and above,5 & Above members,1.0,3,Mass Affluent Housing,0,1
+429,Full Time,Post Graduate,2.0,3K-7K,Housing Loan,INR 50K - INR 2L,3 - 4 members,2.0,0,Affordable Housing,0,1
+430,Full Time,Under Graduate,5.0,3K-7K,CASA Account,INR 15L and above,3 - 4 members,1.0,2,Budget Housing,0,1
+431,Full Time,Post Graduate,2.5,Less than 3K,Housing Loan,INR 50K - INR 2L,1 - 2 members,1.0,0,Budget Housing,1,1
+432,Full Time,Under Graduate,10.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,0,1
+433,Full Time,Under Graduate,4.0,7K-10K,Personal Loan,INR 2L - INR 5L,5 & Above members,2.0,3,Sales,0,1
+434,Full Time,Under Graduate,2.0,3K-7K,Business Loan,INR 5L - INR 15L,3 - 4 members,1.0,1,Business Loans,0,1
+435,Full Time,Post Graduate,6.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,2.0,2,Affordable Housing,0,1
+436,Full Time,Under Graduate,2.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,2.0,0,Affordable Housing,0,1
+437,Full Time,Post Graduate,2.0,7K-10K,Housing Loan,INR 15L and above,3 - 4 members,2.0,4,Affordable Housing,0,1
+438,Full Time,Under Graduate,0.0,Above 10K,Personal Loan,INR 10L and above,3 - 4 members,1.0,3,Sales,0,1
+439,Full Time,Under Graduate,6.0,3K-7K,Car Loan,INR 15L and above,1 - 2 members,0.0,1,Sales,1,1
+440,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,4,Affordable Housing,0,1
+441,Full Time,Post Graduate,5.0,Above 10K,MSME / SME Loan,INR 2L - INR 5L,3 - 4 members,1.0,1,Affordable Housing,0,1
+442,Full Time,Post Graduate,4.5,3K-7K,Personal Loan,INR 15L and above,3 - 4 members,2.0,3,Sales,0,1
+443,Full Time,Under Graduate,1.5,7K-10K,CASA Account,INR 2L - INR 5L,3 - 4 members,1.0,0,Affordable Housing,0,1
+444,Full Time,Under Graduate,0.0,Nil,Others,Fresher,5 & Above members,1.0,5,Affordable Housing,0,1
+445,Full Time,Under Graduate,1.0,Nil,Housing Loan,INR 5L - INR 15L,1 - 2 members,2.0,0,Affordable Housing,1,1
+446,Full Time,Under Graduate,6.0,3K-7K,Personal Loan,INR 5L - INR 15L,3 - 4 members,3.0,3,Sales,0,1
+447,Full Time,Post Graduate,3.0,Less than 3K,Personal Loan,INR 2L - INR 5L,5 & Above members,1.0,5,Affordable Housing,1,1
+448,Full Time,Post Graduate,4.5,Above 10K,Others,INR 50K - INR 2L,5 & Above members,3.0,4,Affordable Housing,1,1
+449,Full Time,Under Graduate,9.0,3K-7K,Others,Fresher,5 & Above members,1.0,4,Sales,0,1
+450,Full Time,Under Graduate,2.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & Above members,1.0,3,Budget Housing,1,1
+451,Full Time,Under Graduate,1.0,Nil,Housing Loan,Fresher,1 - 2 members,1.0,0,Affordable Housing,0,1
+452,Full Time,Under Graduate,10.0,Above 10K,Others,INR 15L and above,3 - 4 members,2.0,2,Mass Affluent Housing,1,0
+453,Full Time,Under Graduate,3.0,7K-10K,Personal Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Sales,1,1
+454,Full Time,Post Graduate,2.0,Above 10K,Personal Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Sales,0,1
+455,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,0,Affordable Housing,0,1
+456,Full Time,Post Graduate,6.0,Above 10K,Car Loan,INR 15L and above,3 - 4 members,0.0,2,Sales,1,1
+457,Full Time,Under Graduate,2.0,Nil,Personal Loan,INR 50K - INR 2L,3 - 4 members,0.0,2,Affordable Housing,1,1
+458,Full Time,Post Graduate,8.0,Above 10K,Others,INR 2L - INR 5L,3 - 4 members,0.0,3,Affordable Housing,1,1
+459,Full Time,Under Graduate,4.208333333,3K-7K,Others,INR 2L - INR 5L,5 & Above members,1.0,2,Mass Affluent Housing,0,1
+460,Full Time,Under Graduate,6.0,Above 10K,CASA Account,INR 5L - INR 15L,5 & Above members,2.0,4,Sales,1,1
+461,Full Time,Post Graduate,0.0,Above 10K,Loan Against Property,INR 10L and above,3 - 4 members,1.0,3,Secured Business Loan,1,1
+462,Full Time,Under Graduate,0.0,3K-7K,Loan Against Property,INR 2L - INR 5L,5 & Above members,1.0,2,Secured Business Loan,0,1
+463,Full Time,Under Graduate,8.0,Above 10K,Housing Loan,INR 50K - INR 2L,5 & Above members,2.0,0,Mass Affluent Housing,1,1
+464,Full Time,Under Graduate,0.0,Nil,Personal Loan,Fresher,3 - 4 members,1.0,3,Affordable Housing,0,1
+465,Full Time,Under Graduate,5.583333333,Above 10K,Others,INR 10L and above,3 - 4 members,1.0,3,Affordable Housing,0,1
+466,Full Time,Post Graduate,5.5,7K-10K,MSME / SME Loan,INR 15L and above,1 - 2 members,0.0,2,Affordable Housing,0,1
+467,Full Time,Under Graduate,4.0,3K-7K,Others,INR 2L - INR 5L,3 - 4 members,3.0,2,Sales,0,1
+468,Full Time,Under Graduate,5.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,1.0,4,Affordable Housing,0,1
+469,Full Time,Under Graduate,9.0,3K-7K,Car Loan,INR 15L and above,3 - 4 members,1.0,2,Sales,0,1
+470,Full Time,Post Graduate,3.0,Above 10K,MSME / SME Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Business Loans,1,1
+471,Full Time,Post Graduate,10.0,3K-7K,Housing Loan,INR 2L - INR 5L,3 - 4 members,0.0,2,Mass Affluent Housing,0,1
+472,Full Time,Under Graduate,8.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,4.0,3,Affordable Housing,0,1
+473,Full Time,Under Graduate,9.0,7K-10K,Personal Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Business Loans,1,1
+474,Full Time,Under Graduate,3.5,3K-7K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Affordable Housing,1,1
+475,Full Time,Under Graduate,0.0,3K-7K,Business Loan,INR 2L - INR 5L,5 & Above members,1.0,3,Mass Affluent Housing,0,1
+476,Full Time,Under Graduate,7.0,Above 10K,Housing Loan,INR 5L - INR 15L,5 & Above members,2.0,8,Mass Affluent Housing,1,1
+477,Full Time,Post Graduate,10.0,Above 10K,Personal Loan,INR 5L - INR 15L,3 - 4 members,0.0,4,Sales,1,1
+478,Full Time,Under Graduate,3.0,3K-7K,MSME / SME Loan,INR 50K - INR 2L,5 & above members,2.0,4,Affordable Housing,0,1
+479,Full Time,Under Graduate,3.0,Above 10K,Others,INR 50K - INR 2L,3 - 4 members,2.0,3,Budget Housing,1,1
+480,Full Time,Under Graduate,2.25,Above 10K,Housing Loan,INR 50K and below,1 - 2 members,1.0,1,Mass Affluent Housing,1,1
+481,Full Time,Under Graduate,3.555555556,Above 10K,Car Loan,INR 2L - INR 5L,5 & Above members,1.0,0,Sales,1,1
+482,Full Time,Under Graduate,2.0,Above 10K,Housing Loan,INR 50K and below,3 - 4 members,1.0,2,Affordable Housing,0,1
+483,Full Time,Under Graduate,3.166666667,Above 10K,Housing Loan,INR 2L - INR 5L,5 & Above members,1.0,2,Mass Affluent Housing,1,1
+484,Full Time,Under Graduate,1.5,3K-7K,Others,INR 15L and above,5 & Above members,2.0,5,Affordable Housing,0,1
+485,Full Time,Under Graduate,7.0,Above 10K,Others,INR 15L and above,1 - 2 members,1.0,4,Affordable Housing,0,1
+486,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,2.0,2,Mass Affluent Housing,0,1
+487,Full Time,Under Graduate,0.0,Nil,Personal Loan,Fresher,5 & Above members,2.0,4,Sales,1,1
+488,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 10L and above,5 & Above members,1.0,0,Affordable Housing,1,1
+489,Full Time,Under Graduate,0.0,7K-10K,Personal Loan,INR 2L - INR 5L,5 & Above members,1.0,3,Sales,0,1
+490,Full Time,Under Graduate,4.0,3K-7K,Personal Loan,INR 5L - INR 15L,5 & Above members,3.0,3,Mass Affluent Housing,0,1
+491,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 10L and above,5 & Above members,1.0,4,Affordable Housing,0,1
+492,Full Time,Under Graduate,2.0,Less than 3K,Housing Loan,INR 5L - INR 15L,3 - 4 members,2.0,1,Mass Affluent Housing,0,1
+493,Full Time,Post Graduate,2.0,Above 10K,Personal Loan,INR 15L and above,3 - 4 members,1.0,3,Affordable Housing,0,1
+494,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 2L - INR 5L,5 & Above members,1.0,6,Affordable Housing,0,1
+495,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,1 - 2 members,1.0,4,Affordable Housing,0,1
+496,Full Time,Post Graduate,0.0,Nil,Others,Fresher,5 & Above members,1.0,2,Secured Business Loan,0,1
+497,Full Time,Under Graduate,0.0,Above 10K,Car Loan,INR 50K and below,5 & Above members,1.0,2,Sales,1,1
+498,Full Time,Under Graduate,0.416666667,Less than 3K,Housing Loan,INR 10L and above,1 - 2 members,1.0,1,Affordable Housing,1,1
+499,Full Time,Under Graduate,8.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,1.0,3,Affordable Housing,1,1
+500,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,2,Affordable Housing,0,1
+501,Full Time,Under Graduate,3.0,Above 10K,Personal Loan,INR 15L and above,3 - 4 members,2.0,1,Sales,0,1
+502,Full Time,Others,3.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,1,Affordable Housing,0,1
+503,Full Time,Under Graduate,0.0,Above 10K,Personal Loan,INR 10L and above,5 & Above members,1.0,3,Mass Affluent Housing,1,1
+504,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+505,Full Time,Under Graduate,3.0,Above 10K,Personal Loan,INR 15L and above,5 & Above members,1.0,1,Sales,1,1
+506,Full Time,Under Graduate,4.0,Above 10K,Personal Loan,INR 2L - INR 5L,5 & Above members,3.0,1,Sales,1,1
+507,Full Time,Under Graduate,3.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,2.0,4,Business Loans,1,1
+508,Full Time,Post Graduate,1.0,Above 10K,Others,INR 50K - INR 2L,3 - 4 members,3.0,0,Affordable Housing,0,1
+509,Full Time,Under Graduate,8.0,Above 10K,Personal Loan,INR 50K - INR 2L,3 - 4 members,2.0,0,Sales,1,1
+510,Full Time,Under Graduate,3.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,2.0,3,Mass Affluent Housing,1,1
+511,Full Time,Under Graduate,6.0,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,1.0,3,Affordable Housing,0,1
+512,Full Time,Under Graduate,10.0,Above 10K,Others,INR 15L and above,3 - 4 members,1.0,3,Sales,0,1
+513,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 50K and below,3 - 4 members,1.0,1,Affordable Housing,0,1
+514,Full Time,Under Graduate,5.0,Above 10K,Car Loan,INR 5L - INR 15L,5 & above members,3.0,2,Affordable Housing,0,1
+515,Full Time,Under Graduate,6.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,0.0,3,Mass Affluent Housing,0,1
+516,Full Time,Under Graduate,6.75,7K-10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+517,Full Time,Under Graduate,1.5,Above 10K,Personal Loan,INR 15L and above,3 - 4 members,1.0,2,Business Loans,1,1
+518,Full Time,Under Graduate,2.0,7K-10K,Housing Loan,INR 2L - INR 5L,5 & Above members,3.0,1,Mass Affluent Housing,0,1
+519,Part Time,Under Graduate,3.0,Less than 3K,Others,INR 2L - INR 5L,5 & above members,3.0,4,Secured Business Loan,0,1
+520,Full Time,Under Graduate,0.0,Above 10K,Business Loan,INR 10L and above,3 - 4 members,1.0,0,Business Loans,1,1
+521,Full Time,Under Graduate,5.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,3.0,2,Mass Affluent Housing,0,1
+522,Full Time,Post Graduate,10.0,3K-7K,Housing Loan,INR 15L and above,1 - 2 members,0.0,3,Mass Affluent Housing,1,1
+523,Full Time,Under Graduate,7.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,1.0,3,Sales,1,1
+524,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 10L and above,5 & Above members,1.0,4,Mass Affluent Housing,0,1
+525,Part Time,Under Graduate,3.0,Nil,Others,INR 5L - INR 15L,3 - 4 members,3.0,0,Mass Affluent Housing,1,1
+526,Full Time,Under Graduate,8.0,7K-10K,Car Loan,INR 50K and below,3 - 4 members,2.0,3,Sales,0,1
+527,Part Time,Under Graduate,0.0,Nil,Others,Fresher,5 & Above members,2.0,4,Secured Business Loan,0,1
+528,Full Time,Under Graduate,0.0,Above 10K,Loan Against Property,INR 10L and above,5 & Above members,1.0,3,Secured Business Loan,1,1
+529,Full Time,Under Graduate,0.0,7K-10K,Car Loan,INR 10L and above,1 - 2 members,1.0,1,Sales,1,1
+530,Full Time,Under Graduate,7.3,3K-7K,Housing Loan,INR 5L - INR 15L,3 - 4 members,2.0,3,Mass Affluent Housing,0,1
+531,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 10L and above,3 - 4 members,1.0,0,Affordable Housing,0,1
+532,Full Time,Under Graduate,7.0,Above 10K,Housing Loan,INR 50K - INR 2L,3 - 4 members,0.0,3,Mass Affluent Housing,0,1
+533,Full Time,Under Graduate,5.0,Above 10K,Personal Loan,INR 50K and below,3 - 4 members,1.0,3,Mass Affluent Housing,0,1
+534,Full Time,Under Graduate,2.0,3K-7K,Car Loan,INR 5L - INR 15L,5 & above members,1.0,4,Mass Affluent Housing,0,1
+535,Full Time,Under Graduate,1.0,Above 10K,MSME / SME Loan,INR 15L and above,5 & Above members,1.0,4,Business Loans,1,1
+536,Full Time,Post Graduate,4.333333333,Nil,Housing Loan,INR 50K and below,5 & Above members,1.0,1,Mass Affluent Housing,0,1
+537,Full Time,Under Graduate,0.0,7K-10K,Loan Against Property,INR 50K and below,3 - 4 members,1.0,3,Secured Business Loan,0,1
+538,Full Time,Under Graduate,0.0,Nil,MSME / SME Loan,Fresher,3 - 4 members,2.0,3,Secured Business Loan,0,1
+539,Full Time,Under Graduate,3.0,Nil,Housing Loan,INR 15L and above,5 & above members,2.0,2,Affordable Housing,0,1
+540,Full Time,Post Graduate,2.0,3K-7K,Others,INR 50K and below,3 - 4 members,2.0,3,Affordable Housing,0,1
+541,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 10L and above,3 - 4 members,1.0,4,Affordable Housing,1,1
+542,Part Time,Post Graduate,2.5,3K-7K,Housing Loan,INR 50K - INR 2L,3 - 4 members,2.0,2,Affordable Housing,0,1
+543,Full Time,Under Graduate,1.0,3K-7K,Personal Loan,INR 50K - INR 2L,3 - 4 members,2.0,5,Mass Affluent Housing,0,1
+544,Full Time,Post Graduate,3.0,3K-7K,Housing Loan,Fresher,3 - 4 members,2.0,2,Budget Housing,1,1
+545,Full Time,Post Graduate,4.0,3K-7K,Personal Loan,INR 15L and above,3 - 4 members,1.0,3,Business Loans,1,1
+546,Full Time,Under Graduate,3.0,Less than 3K,Others,INR 50K - INR 2L,3 - 4 members,2.0,0,Affordable Housing,1,1
+547,Full Time,Under Graduate,0.0,7K-10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+548,Full Time,Under Graduate,0.0,Less than 3K,Loan Against Property,Fresher,5 & Above members,1.0,2,Secured Business Loan,0,1
+549,Full Time,Post Graduate,1.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,1.0,4,Mass Affluent Housing,1,1
+550,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+551,Full Time,Under Graduate,5.25,Above 10K,Business Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Business Loans,0,1
+552,Full Time,Under Graduate,0.0,Above 10K,Business Loan,INR 10L and above,3 - 4 members,1.0,1,Business Loans,1,1
+553,Full Time,Post Graduate,5.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,1,1
+554,Full Time,Post Graduate,5.0,Less than 3K,Business Loan,INR 5L - INR 15L,1 - 2 members,1.0,0,Mass Affluent Housing,0,1
+555,Full Time,Under Graduate,7.0,7K-10K,Car Loan,INR 5L - INR 15L,5 & Above members,1.0,4,Sales,0,1
+556,Full Time,Under Graduate,5.5,Above 10K,Loan Against Property,INR 10L and above,3 - 4 members,1.0,2,Secured Business Loan,0,1
+557,Full Time,Post Graduate,2.5,7K-10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,1,Mass Affluent Housing,0,1
+558,Full Time,Post Graduate,3.5,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,0.0,4,Business Loans,0,1
+559,Full Time,Under Graduate,2.0,7K-10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,0.0,3,Budget Housing,1,1
+560,Full Time,Under Graduate,6.0,7K-10K,Others,INR 15L and above,5 & Above members,2.0,4,Secured Business Loan,0,1
+561,Full Time,Under Graduate,1.5,7K-10K,Housing Loan,INR 2L - INR 5L,1 - 2 members,1.0,3,Affordable Housing,0,1
+562,Full Time,Post Graduate,7.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,1.0,2,Sales,0,1
+563,Full Time,Under Graduate,1.0,Less than 3K,MSME / SME Loan,INR 5L - INR 15L,3 - 4 members,0.0,4,Secured Business Loan,1,1
+564,Full Time,Under Graduate,0.0,3K-7K,Business Loan,INR 10L and above,5 & Above members,1.0,2,Business Loans,0,1
+565,Full Time,Under Graduate,4.0,7K-10K,Housing Loan,INR 15L and above,3 - 4 members,2.0,0,Affordable Housing,1,1
+566,Full Time,Under Graduate,5.0,Above 10K,Car Loan,INR 15L and above,1 - 2 members,0.0,2,Business Loans,1,1
+567,Full Time,Under Graduate,3.0,7K-10K,Housing Loan,INR 5L - INR 15L,5 & Above members,2.0,2,Mass Affluent Housing,0,1
+568,Full Time,Under Graduate,0.0,Nil,Housing Loan,Fresher,5 & Above members,1.0,5,Affordable Housing,0,1
+569,Full Time,Under Graduate,6.0,Less than 3K,Others,INR 50K and below,5 & Above members,1.0,4,Sales,0,1
+570,Full Time,Under Graduate,0.0,7K-10K,Car Loan,INR 2L - INR 5L,5 & Above members,1.0,3,Sales,1,1
+571,Full Time,Under Graduate,3.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,2.0,6,Business Loans,1,1
+572,Part Time,Under Graduate,4.0,Above 10K,Others,INR 5L - INR 15L,5 & Above members,2.0,2,Affordable Housing,0,1
+573,Full Time,Under Graduate,1.0,3K-7K,Housing Loan,INR 50K and below,5 & Above members,2.0,2,Mass Affluent Housing,0,1
+574,Full Time,Post Graduate,5.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,4,Mass Affluent Housing,0,1
+575,Part Time,Under Graduate,8.0,7K-10K,Personal Loan,INR 5L - INR 15L,3 - 4 members,0.0,2,Sales,0,1
+576,Full Time,Under Graduate,2.0,7K-10K,Personal Loan,INR 50K - INR 2L,3 - 4 members,2.0,4,Business Loans,0,1
+577,Full Time,Post Graduate,17.0,7K-10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,0.0,2,Mass Affluent Housing,0,1
+578,Full Time,Under Graduate,2.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Affordable Housing,1,1
+579,Full Time,Under Graduate,4.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,2.0,3,Affordable Housing,0,1
+580,Full Time,Under Graduate,0.6,3K-7K,Car Loan,INR 5L - INR 15L,3 - 4 members,2.0,3,Sales,1,1
+581,Full Time,Post Graduate,2.0,7K-10K,Housing Loan,INR 5L - INR 15L,5 & above members,3.0,2,Affordable Housing,0,1
+582,Full Time,Post Graduate,0.0,Nil,Housing Loan,Fresher,1 - 2 members,1.0,1,Affordable Housing,0,1
+583,Full Time,Under Graduate,2.0,Above 10K,MSME / SME Loan,INR 15L and above,5 & Above members,0.0,4,Affordable Housing,0,1
+584,Full Time,Post Graduate,1.0,3K-7K,Housing Loan,INR 15L and above,5 & Above members,0.0,5,Affordable Housing,0,0
+585,Full Time,Post Graduate,0.0,Nil,Others,Fresher,1 - 2 members,1.0,0,Sales,0,1
+586,Full Time,Post Graduate,3.5,7K-10K,Car Loan,INR 10L and above,5 & Above members,1.0,5,Sales,0,1
+587,Full Time,Under Graduate,4.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Affordable Housing,0,1
+588,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,1 - 2 members,1.0,2,Affordable Housing,1,1
+589,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,0,Affordable Housing,0,0
+590,Full Time,Under Graduate,1.0,Less than 3K,Housing Loan,INR 2L - INR 5L,1 - 2 members,2.0,2,Affordable Housing,1,1
+591,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,4,Affordable Housing,1,1
+592,Full Time,Under Graduate,4.0,Nil,Housing Loan,INR 15L and above,5 & above members,2.0,4,Mass Affluent Housing,0,1
+593,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,0.0,4,Affordable Housing,0,1
+594,Full Time,Under Graduate,3.0,Above 10K,CASA Account,INR 2L - INR 5L,5 & Above members,1.0,2,Affordable Housing,0,1
+595,Full Time,Post Graduate,5.5,7K-10K,MSME / SME Loan,INR 2L - INR 5L,3 - 4 members,0.0,3,Mass Affluent Housing,0,1
+596,Full Time,Under Graduate,4.416666667,Above 10K,Housing Loan,INR 50K and below,3 - 4 members,1.0,3,Affordable Housing,1,1
+597,Full Time,Under Graduate,4.0,3K-7K,Others,INR 15L and above,3 - 4 members,2.0,2,Sales,1,1
+598,Full Time,Under Graduate,15.0,3K-7K,Housing Loan,INR 50K and below,5 & Above members,5.0,2,Affordable Housing,0,1
+599,Full Time,Under Graduate,2.0,7K-10K,Loan Against Property,INR 2L - INR 5L,3 - 4 members,1.0,1,Secured Business Loan,0,1
+600,Full Time,Under Graduate,15.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,1.0,3,Affordable Housing,0,1
+601,Full Time,Under Graduate,2.5,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,1.0,2,Affordable Housing,1,1
+602,Full Time,Post Graduate,12.0,3K-7K,Others,INR 15L and above,5 & Above members,0.0,3,Sales,1,1
+603,Full Time,Post Graduate,8.0,Above 10K,Car Loan,INR 10L and above,5 & Above members,1.0,1,Sales,1,1
+604,Part Time,Under Graduate,3.0,Nil,Housing Loan,INR 50K - INR 2L,5 & above members,4.0,4,Affordable Housing,1,1
+605,Part Time,Under Graduate,5.0,3K-7K,Housing Loan,Fresher,3 - 4 members,2.0,2,Affordable Housing,0,1
+606,Full Time,Under Graduate,7.0,3K-7K,Car Loan,INR 15L and above,3 - 4 members,1.0,4,Sales,0,1
+607,Full Time,Under Graduate,14.0,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,0.0,3,Affordable Housing,0,1
+608,Full Time,Under Graduate,0.666666667,Nil,CASA Account,INR 50K and below,5 & Above members,1.0,5,Affordable Housing,1,1
+609,Full Time,Post Graduate,7.0,Above 10K,Housing Loan,INR 2L - INR 5L,3 - 4 members,2.0,1,Sales,1,1
+610,Full Time,Under Graduate,0.0,Nil,Others,Fresher,5 & Above members,1.0,5,Affordable Housing,1,1
+611,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,8,Affordable Housing,1,1
+612,Part Time,Post Graduate,2.0,3K-7K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Mass Affluent Housing,0,1
+613,Full Time,Under Graduate,6.0,3K-7K,Others,INR 50K and below,3 - 4 members,2.0,3,Secured Business Loan,0,1
+614,Full Time,Under Graduate,3.833333333,7K-10K,Housing Loan,INR 2L - INR 5L,1 - 2 members,1.0,1,Mass Affluent Housing,1,0
+615,Full Time,Under Graduate,3.333333333,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,1,Mass Affluent Housing,0,1
+616,Full Time,Under Graduate,1.0,3K-7K,Housing Loan,INR 15L and above,3 - 4 members,4.0,3,Mass Affluent Housing,0,1
+617,Full Time,Under Graduate,7.166666667,Less than 3K,Housing Loan,INR 5L - INR 15L,1 - 2 members,1.0,1,Budget Housing,1,1
+618,Full Time,Under Graduate,3.0,Nil,Car Loan,INR 15L and above,3 - 4 members,1.0,1,Mass Affluent Housing,1,1
+619,Full Time,Post Graduate,4.0,Above 10K,Car Loan,INR 2L - INR 5L,5 & Above members,4.0,2,Affordable Housing,0,1
+620,Full Time,Post Graduate,3.0,Nil,Personal Loan,INR 2L - INR 5L,3 - 4 members,2.0,2,Sales,0,1
+621,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 50K - INR 2L,5 & Above members,1.0,2,Affordable Housing,0,1
+622,Full Time,Under Graduate,1.0,3K-7K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Affordable Housing,1,1
+623,Full Time,Under Graduate,7.0,7K-10K,Housing Loan,INR 15L and above,5 & above members,1.0,7,Budget Housing,0,1
+624,Part Time,Under Graduate,5.0,Above 10K,Car Loan,INR 5L - INR 15L,3 - 4 members,0.0,3,Sales,1,1
+625,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,Fresher,3 - 4 members,1.0,4,Mass Affluent Housing,0,1
+626,Full Time,Post Graduate,3.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,4.0,2,Secured Business Loan,1,1
+627,Full Time,Under Graduate,0.0,3K-7K,Housing Loan,INR 50K - INR 2L,5 & Above members,1.0,4,Mass Affluent Housing,0,1
+628,Full Time,Under Graduate,4.0,3K-7K,Housing Loan,INR 50K - INR 2L,5 & Above members,2.0,0,Affordable Housing,1,1
+629,Full Time,Under Graduate,2.0,Nil,Housing Loan,INR 5L - INR 15L,3 - 4 members,3.0,2,Mass Affluent Housing,0,1
+630,Full Time,Post Graduate,6.0,7K-10K,Personal Loan,INR 15L and above,5 & Above members,1.0,5,Mass Affluent Housing,0,1
+631,Full Time,Under Graduate,6.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,0,Mass Affluent Housing,1,1
+632,Full Time,Under Graduate,15.0,Above 10K,Housing Loan,INR 5L - INR 15L,1 - 2 members,1.0,1,Affordable Housing,0,1
+633,Full Time,Post Graduate,4.6,Above 10K,Personal Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Affordable Housing,0,1
+634,Full Time,Under Graduate,0.0,Less than 3K,Housing Loan,INR 10L and above,5 & Above members,1.0,5,Mass Affluent Housing,0,1
+635,Full Time,Under Graduate,2.0,Above 10K,Others,INR 50K - INR 2L,3 - 4 members,1.0,2,Mass Affluent Housing,1,1
+636,Full Time,Post Graduate,4.0,3K-7K,Car Loan,INR 2L - INR 5L,5 & Above members,1.0,4,Business Loans,1,1
+637,Full Time,Under Graduate,3.0,7K-10K,Car Loan,INR 5L - INR 15L,5 & Above members,1.0,0,Affordable Housing,1,1
+638,Full Time,Under Graduate,6.0,7K-10K,CASA Account,INR 5L - INR 15L,1 - 2 members,1.0,1,Affordable Housing,0,1
+639,Full Time,Under Graduate,0.0,Above 10K,CASA Account,INR 5L - INR 15L,3 - 4 members,1.0,2,Affordable Housing,0,1
+640,Full Time,Post Graduate,2.0,3K-7K,Others,Fresher,5 & Above members,0.0,4,Mass Affluent Housing,1,1
+641,Full Time,Under Graduate,0.0,Above 10K,Loan Against Property,INR 10L and above,3 - 4 members,1.0,0,Secured Business Loan,0,1
+642,Full Time,Under Graduate,4.5,Above 10K,Car Loan,INR 15L and above,5 & Above members,4.0,2,Affordable Housing,0,1
+643,Full Time,Under Graduate,5.0,3K-7K,Others,INR 2L - INR 5L,5 & Above members,2.0,2,Sales,1,1
+644,Full Time,Post Graduate,4.0,Above 10K,Personal Loan,INR 15L and above,3 - 4 members,1.0,4,Sales,1,1
+645,Full Time,Under Graduate,3.166666667,7K-10K,Housing Loan,INR 10L and above,3 - 4 members,1.0,2,Mass Affluent Housing,1,1
+646,Full Time,Post Graduate,2.0,Nil,Housing Loan,INR 15L and above,5 & above members,2.0,2,Mass Affluent Housing,0,1
+647,Full Time,Under Graduate,0.0,Above 10K,Loan Against Property,INR 10L and above,5 & Above members,1.0,0,Secured Business Loan,1,1
+648,Full Time,Under Graduate,3.0,Less than 3K,Housing Loan,INR 50K and below,3 - 4 members,1.0,2,Affordable Housing,0,1
+649,Full Time,Post Graduate,3.0,3K-7K,Housing Loan,INR 2L - INR 5L,5 & Above members,1.0,3,Affordable Housing,0,0
+650,Full Time,Under Graduate,4.0,Above 10K,Others,INR 50K and below,3 - 4 members,2.0,4,Sales,0,1
+651,Full Time,Under Graduate,6.0,3K-7K,Housing Loan,INR 2L - INR 5L,3 - 4 members,2.0,2,Affordable Housing,1,1
+652,Full Time,Post Graduate,2.0,3K-7K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,2.0,4,Business Loans,0,1
+653,Full Time,Under Graduate,3.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,1 - 2 members,1.0,1,Sales,1,1
+654,Full Time,Under Graduate,2.0,Above 10K,Car Loan,INR 15L and above,3 - 4 members,1.0,4,Sales,1,1
+655,Full Time,Under Graduate,5.0,7K-10K,Personal Loan,INR 2L - INR 5L,3 - 4 members,0.0,3,Affordable Housing,0,1
+656,Full Time,Under Graduate,6.0,7K-10K,Housing Loan,INR 50K - INR 2L,3 - 4 members,4.0,0,Affordable Housing,0,1
+657,Full Time,Under Graduate,3.0,7K-10K,Personal Loan,INR 10L and above,3 - 4 members,1.0,2,Sales,0,1
+658,Full Time,Under Graduate,0.0,Nil,Others,Fresher,3 - 4 members,0.0,2,Business Loans,0,1
+659,Full Time,Under Graduate,0.0,Nil,Car Loan,INR 5L - INR 15L,5 & Above members,1.0,4,Sales,0,1
+660,Full Time,Post Graduate,4.8,7K-10K,Housing Loan,INR 15L and above,1 - 2 members,1.0,2,Affordable Housing,0,1
+661,Full Time,Under Graduate,0.0,Nil,Others,Fresher,5 & Above members,4.0,0,Mass Affluent Housing,1,1
+662,Full Time,Under Graduate,0.0,Above 10K,Car Loan,INR 10L and above,3 - 4 members,1.0,2,Sales,0,1
+663,Full Time,Under Graduate,3.0,Above 10K,Car Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Sales,1,1
+664,Full Time,Post Graduate,8.0,3K-7K,Others,INR 15L and above,5 & Above members,4.0,3,Mass Affluent Housing,1,1
+665,Full Time,Under Graduate,0.0,Above 10K,Business Loan,INR 10L and above,3 - 4 members,1.0,3,Business Loans,0,0
+666,Full Time,Post Graduate,15.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & above members,2.0,3,Affordable Housing,1,1
+667,Full Time,Post Graduate,6.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,3,Sales,1,1
+668,Full Time,Under Graduate,4.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,5.0,0,Affordable Housing,1,1
+669,Full Time,Under Graduate,4.0,Above 10K,Car Loan,INR 15L and above,3 - 4 members,1.0,2,Secured Business Loan,1,1
+670,Full Time,Post Graduate,9.0,Less than 3K,Car Loan,INR 5L - INR 15L,5 & Above members,1.0,3,Sales,1,1
+671,Full Time,Under Graduate,1.0,3K-7K,Housing Loan,INR 50K and below,3 - 4 members,0.0,4,Affordable Housing,0,1
+672,Full Time,Post Graduate,0.0,Nil,Housing Loan,Fresher,5 & Above members,0.0,3,Mass Affluent Housing,0,1
+673,Full Time,Under Graduate,0.0,Above 10K,Personal Loan,INR 2L - INR 5L,5 & Above members,1.0,2,Sales,0,1
+674,Full Time,Under Graduate,0.0,Above 10K,Loan Against Property,INR 2L - INR 5L,5 & Above members,1.0,2,Secured Business Loan,0,1
+675,Full Time,Post Graduate,1.0,7K-10K,Car Loan,INR 15L and above,5 & Above members,1.0,2,Affordable Housing,1,1
+676,Full Time,Under Graduate,0.0,Nil,Housing Loan,Fresher,5 & Above members,1.0,3,Affordable Housing,0,1
+677,Full Time,Under Graduate,7.0,3K-7K,Personal Loan,INR 2L - INR 5L,3 - 4 members,1.0,2,Sales,1,1
+678,Full Time,Under Graduate,0.6,Less than 3K,Others,Fresher,3 - 4 members,1.0,2,Affordable Housing,0,1
+679,Full Time,Post Graduate,1.4,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,0,Affordable Housing,1,1
+680,Full Time,Under Graduate,4.0,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,1.0,4,Mass Affluent Housing,0,1
+681,Full Time,Under Graduate,3.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+682,Full Time,Under Graduate,4.0,Above 10K,Others,INR 15L and above,5 & Above members,2.0,3,Mass Affluent Housing,0,1
+683,Part Time,Under Graduate,3.0,7K-10K,Others,INR 50K and below,3 - 4 members,1.0,2,Secured Business Loan,0,1
+684,Full Time,Under Graduate,0.0,Above 10K,Business Loan,INR 10L and above,5 & Above members,1.0,3,Business Loans,1,1
+685,Full Time,Under Graduate,8.0,3K-7K,Others,INR 50K - INR 2L,3 - 4 members,1.0,2,Secured Business Loan,1,1
+686,Full Time,Under Graduate,7.0,7K-10K,Car Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Sales,0,1
+687,Full Time,Under Graduate,5.0,Above 10K,Others,INR 50K - INR 2L,5 & Above members,4.0,1,Mass Affluent Housing,0,1
+688,Full Time,Under Graduate,0.0,Less than 3K,Car Loan,Fresher,3 - 4 members,1.0,3,Sales,0,1
+689,Full Time,Under Graduate,1.0,3K-7K,Others,INR 2L - INR 5L,1 - 2 members,4.0,2,Secured Business Loan,1,1
+690,Full Time,Post Graduate,0.0,3K-7K,Housing Loan,INR 10L and above,5 & Above members,1.0,4,Affordable Housing,0,1
+691,Full Time,Under Graduate,0.0,Less than 3K,Others,Fresher,5 & Above members,1.0,0,Affordable Housing,0,1
+692,Full Time,Under Graduate,10.0,Above 10K,Housing Loan,INR 15L and above,5 & Above members,1.0,3,Secured Business Loan,1,1
+693,Full Time,Under Graduate,3.25,3K-7K,Housing Loan,INR 10L and above,3 - 4 members,1.0,0,Affordable Housing,1,1
+694,Full Time,Under Graduate,2.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+695,Full Time,Under Graduate,8.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,4.0,4,Secured Business Loan,1,1
+696,Full Time,Under Graduate,8.0,3K-7K,Car Loan,INR 50K and below,3 - 4 members,0.0,3,Sales,0,1
+697,Full Time,Post Graduate,2.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & Above members,1.0,3,Secured Business Loan,1,1
+698,Full Time,Under Graduate,6.0,Above 10K,Personal Loan,INR 2L - INR 5L,5 & Above members,2.0,2,Sales,0,1
+699,Full Time,Under Graduate,4.0,3K-7K,MSME / SME Loan,INR 5L - INR 15L,3 - 4 members,0.0,2,Secured Business Loan,1,1
+700,Full Time,Under Graduate,1.2,7K-10K,Personal Loan,INR 5L - INR 15L,1 - 2 members,1.0,2,Sales,0,1
+701,Full Time,Others,3.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & above members,1.0,6,Affordable Housing,0,1
+702,Full Time,Under Graduate,6.2,Less than 3K,Others,Fresher,5 & Above members,1.0,3,Budget Housing,1,1
+703,Full Time,Under Graduate,0.0,Nil,Housing Loan,INR 10L and above,5 & Above members,1.0,0,Affordable Housing,0,1
+704,Full Time,Under Graduate,3.0,3K-7K,Others,INR 5L - INR 15L,3 - 4 members,1.0,3,Affordable Housing,0,1
+705,Full Time,Under Graduate,7.0,Above 10K,Car Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Sales,1,1
+706,Full Time,Under Graduate,6.5,Above 10K,Housing Loan,INR 15L and above,5 & Above members,1.0,5,Mass Affluent Housing,0,1
+707,Full Time,Under Graduate,6.0,Above 10K,Others,INR 15L and above,3 - 4 members,3.0,1,Mass Affluent Housing,1,0
+708,Part Time,Others,13.0,Above 10K,Housing Loan,INR 5L - INR 15L,3 - 4 members,0.0,3,Secured Business Loan,0,1
+709,Full Time,Under Graduate,3.0,3K-7K,Housing Loan,INR 5L - INR 15L,5 & Above members,1.0,4,Mass Affluent Housing,0,0
+710,Full Time,Under Graduate,11.0,7K-10K,Car Loan,INR 15L and above,5 & Above members,1.0,5,Sales,1,1
+711,Full Time,Under Graduate,0.0,Nil,Housing Loan,Fresher,5 & Above members,2.0,3,Mass Affluent Housing,0,1
+712,Part Time,Under Graduate,6.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,3.0,0,Business Loans,0,1
+713,Full Time,Under Graduate,4.0,3K-7K,Others,INR 2L - INR 5L,3 - 4 members,2.0,2,Secured Business Loan,0,1
+714,Full Time,Post Graduate,3.6,7K-10K,Personal Loan,INR 5L - INR 15L,1 - 2 members,2.0,2,Secured Business Loan,0,1
+715,Full Time,Post Graduate,3.0,7K-10K,Others,INR 50K - INR 2L,3 - 4 members,1.0,2,Mass Affluent Housing,0,1
+716,Full Time,Post Graduate,1.5,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,0.0,4,Business Loans,1,1
+717,Full Time,Under Graduate,1.0,Above 10K,MSME / SME Loan,INR 5L - INR 15L,5 & Above members,2.0,6,Business Loans,0,1
+718,Full Time,Under Graduate,5.0,3K-7K,Housing Loan,INR 5L - INR 15L,3 - 4 members,0.0,3,Affordable Housing,0,1
+719,Full Time,Post Graduate,4.5,Above 10K,Personal Loan,INR 15L and above,3 - 4 members,1.0,3,Sales,1,1
+720,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 50K and below,5 & Above members,1.0,5,Mass Affluent Housing,1,1
+721,Full Time,Post Graduate,5.0,Above 10K,Car Loan,INR 5L - INR 15L,1 - 2 members,1.0,2,Sales,1,1
+722,Full Time,Under Graduate,2.0,Nil,Personal Loan,INR 5L - INR 15L,3 - 4 members,1.0,2,Sales,0,1
+723,Full Time,Under Graduate,2.0,3K-7K,Personal Loan,INR 10L and above,5 & Above members,1.0,0,Sales,1,1
+724,Full Time,Post Graduate,2.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,3.0,0,Mass Affluent Housing,0,1
+725,Full Time,Under Graduate,5.0,3K-7K,Others,INR 15L and above,3 - 4 members,0.0,3,Affordable Housing,0,1
+726,Full Time,Under Graduate,5.0,7K-10K,MSME / SME Loan,INR 2L - INR 5L,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
+727,Full Time,Under Graduate,4.0,Above 10K,Housing Loan,INR 15L and above,3 - 4 members,4.0,4,Affordable Housing,0,1
+728,Full Time,Under Graduate,1.01,3K-7K,Housing Loan,INR 15L and above,5 & Above members,0.0,3,Affordable Housing,0,1
+729,Full Time,Under Graduate,4.0,Less than 3K,Housing Loan,INR 2L - INR 5L,3 - 4 members,2.0,2,Affordable Housing,0,1
+730,Full Time,Under Graduate,3.833333333,Above 10K,Housing Loan,INR 10L and above,5 & Above members,1.0,2,Mass Affluent Housing,1,1
+731,Full Time,Post Graduate,4.0,7K-10K,MSME / SME Loan,INR 2L - INR 5L,5 & Above members,1.0,5,Secured Business Loan,0,0
+732,Full Time,Under Graduate,1.0,7K-10K,Housing Loan,INR 15L and above,5 & Above members,2.0,3,Affordable Housing,0,1
+733,Full Time,Under Graduate,0.0,Above 10K,Loan Against Property,INR 10L and above,3 - 4 members,1.0,4,Secured Business Loan,1,1
+734,Full Time,Under Graduate,9.0,7K-10K,Car Loan,INR 50K and below,3 - 4 members,2.0,2,Sales,0,0
+735,Full Time,Under Graduate,4.0,Above 10K,Others,INR 50K - INR 2L,5 & Above members,2.0,5,Mass Affluent Housing,0,1
+736,Full Time,Under Graduate,5.0,Less than 3K,CASA Account,INR 50K - INR 2L,3 - 4 members,1.0,2,Sales,1,1
+737,Full Time,Under Graduate,1.5,Above 10K,MSME / SME Loan,INR 50K - INR 2L,1 - 2 members,1.0,2,Secured Business Loan,1,1
+738,Full Time,Post Graduate,5.0,7K-10K,Housing Loan,INR 15L and above,5 & Above members,0.0,5,Affordable Housing,1,1
+739,Full Time,Post Graduate,9.0,Nil,Others,INR 50K - INR 2L,1 - 2 members,2.0,3,Mass Affluent Housing,0,1
+740,Full Time,Under Graduate,3.0,3K-7K,Personal Loan,INR 2L - INR 5L,3 - 4 members,0.0,2,Mass Affluent Housing,0,1
+741,Full Time,Under Graduate,5.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,1.0,4,Secured Business Loan,1,1
+742,Full Time,Under Graduate,0.0,Above 10K,Housing Loan,INR 50K and below,3 - 4 members,1.0,2,Mass Affluent Housing,1,1
+743,Full Time,Under Graduate,5.0,Above 10K,MSME / SME Loan,INR 15L and above,3 - 4 members,1.0,2,Sales,1,1
+744,Full Time,Post Graduate,5.0,Above 10K,Car Loan,INR 15L and above,3 - 4 members,1.0,3,Mass Affluent Housing,1,1
